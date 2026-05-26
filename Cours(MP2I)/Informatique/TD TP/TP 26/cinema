@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+--SELECT titre FROM Film ORDER BY titre
+
+
+--SELECT DISTINCT titre FROM Film
+	--WHERE annee >= 2020 AND duree >= 120
+	--ORDER BY titre
+
+--SELECT DISTINCT P.nom FROM Personne AS P
+	--JOIN Ecrit AS E ON P.id = E.id_auteur
+	--JOIN Film AS F ON F.id = E.id_film
+--WHERE P.ddm IS NOT NULL
+--	AND substr(P.ddm, 0, 5) + 10 <= F.annee
+--	ORDER by P.nom;
+
+SELECT P.nom, F.titre
+	FROM Personne AS P
+		JOIN Joue_dans AS J ON P.id = J.id_acteur
+		JOIN Film AS F ON F.id = J.id_film
+	WHERE J.nom_role = "Zorro"
+	ORDER BY F.annee
+	
+SELECT DISTINCT Personne.nom
+	FROM Personne AS P1
+		JOIN Realise AS R ON P1.id = R_id_real
+		JOIN Joue_dans AS J ON P1.id = 

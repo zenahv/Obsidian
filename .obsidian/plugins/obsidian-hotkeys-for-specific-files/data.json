@@ -1,0 +1,10 @@
+{
+  "files": [
+    {
+      "useMoment": false,
+      "file": "Rappel keybinds.md"
+    }
+  ],
+  "useExistingPane": true,
+  "useHoverEditor": false
+}

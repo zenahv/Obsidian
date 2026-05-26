@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.folder
+      - tags
+      - file.size
+      - file.path
+    sort:
+      - property: file.mtime
+        direction: DESC

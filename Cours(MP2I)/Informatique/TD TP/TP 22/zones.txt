@@ -1,0 +1,29 @@
+Ancestral_Mound Forgotten_Crossroads
+Ancient_Basin Royal_Waterways
+Cast-Off_Shell Kingdom's_Edge
+City_of_Tears City_Crest Fungal_Wastes
+Crystal_Peak Forgotten_Crossroads Lumafly_Lantern
+Deepnest Fungal_Wastes
+Dirtmouth
+Isma's_Grove Royal_Waterways Dung_Defender
+Kingdom's_Edge City_of_Tears
+Howling_Cliffs Mantis_Claw
+Mantis_Village Fungal_Wastes
+Fog_Canyon Forgotten_Crossroads
+Forgotten_Crossroads Dirtmouth
+Fungal_Wastes Mothwing_Cloak
+Greenpath Vengeful_Spirit
+Overgrown_Mound Fog_Canyon
+Palace_Grounds Ancient_Basin
+Royal_Waterways City_of_Tears
+Resting_Grounds Forgotten_Crossroads
+Stone_Sanctuary Greenpath Lumafly_Lantern
+Teacher's_Archives Fog_Canyon Shade_Cloak
+Temple_of_the_Black_Egg Forgotten_Crossroads Monomon_the_Teacher Lurien_the_Watcher Herrah_the_Beast
+The_Abyss Ancient_Basin King's_Brand
+The_Birthplace The_Abyss
+The_Hive Kingdom's_Edge
+Tower_of_Love City_of_Tears Love_Key
+Queen's_Gardens Fog_Canyon Shade_Cloak
+Watcher's_Spire City_of_Tears Monarch_Wings
+White_Palace Palace_Grounds Awoken_Dream_Nail

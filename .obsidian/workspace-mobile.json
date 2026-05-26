@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "3fa010af905e2026",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8cc369b9a3c4d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a83a45436da2434a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "j - 3 Grammaire"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7f5ed594f26cf00",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4f514ec1877375e0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "df0f0aa8ed797523",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "fd0c78eed89522ec",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4b3afd7a34643dbf",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "cc7f7278efba5fbe",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b0c30c6a3935138b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "303afcd656b2ab55",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Cours(MP2I)/Maths/m - 13 Polynômes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "lucide-ghost",
+          "title": "backlink"
+        }
+      },
+      {
+        "id": "778ed75cb080e5bd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "lucide-ghost",
+          "title": "outgoing-link"
+        }
+      },
+      {
+        "id": "6d9037b6319f3b8d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "68bbefe0ae31f4ca",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "japanese-helper:Japanese Helper": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a83a45436da2434a",
+  "lastOpenFiles": [
+    "Cours(MP2I)/Physique/cours.pdf",
+    "Cours(MP2I)/Physique/brouillon.md",
+    "Cours(MP2I)/Français/La Connaissance de la Vie.pdf",
+    "Rappel keybinds.md",
+    "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+    "Cours(MP2I)/Informatique/i - 16 Logique Prop..md",
+    "Cours(MP2I)/Informatique/i - 13 Ens. inductifs.md",
+    "Cours(MP2I)/Informatique/i - 14 Arbres.md",
+    "Cours(MP2I)/Maths/m - 13 Polynômes.md",
+    "Cours(MP2I)/Informatique/TD TP/TP 17/TP17.pdf",
+    "Cours(MP2I)/Informatique/TD TP/TP 17/test.c",
+    "Cours(MP2I)/Informatique/TD TP/TP 17/exo2.c",
+    "Cours(MP2I)/Informatique/TD TP/TP 17/exo1.ml",
+    "Cours(MP2I)/Informatique/TD TP/TP 17/a.out",
+    "Cours(MP2I)/Informatique/TD TP/TP 17",
+    "Cours(MP2I)/Informatique/i - 15 Retour sur trace.md",
+    "Cours(MP2I)/Informatique/i - 10 Compl. OCaml.md",
+    "Cours(MP2I)/Informatique/DST/YOUR TOO TOO.md",
+    "Cours(MP2I)/Informatique/DST/DST4.pdf",
+    "Cours(MP2I)/Informatique/DST",
+    "Self Teachings/Rust/r - d Stack and Heap.md",
+    "Self Teachings/Rust/r - 3 Ownership.md",
+    "Self Teachings/Rust/r - 2 Common concepts.md",
+    "Self Teachings/Rust/r - 1 Intro.md",
+    "Self Teachings/Japanese studies/j - 1 Hiragana Alphabet.md",
+    "Self Teachings/Rust",
+    "Random images/Pasted image 20260210113254.png",
+    "Random images/Pasted image 20260210103444.png",
+    "Random images/Pasted image 20260210102821.png",
+    "Random images/Pasted image 20260210102053.png",
+    "Random images/Pasted image 20260203102220.png",
+    "Random images/Pasted image 20260203101637.png",
+    "Random images/Pasted image 20260203090613.png",
+    "Random images/Pasted image 20260203090259.png",
+    "Random images/Pasted image 20260203090047.png",
+    "Random images/Pasted image 20260203085916.png",
+    "Cours(MP2I)/Physique/TP/TP 17.md",
+    "Cours(MP2I)/Physique/TD Physique/TD Th. Mvt. Cinétique.md",
+    "Cours(MP2I)/Physique/Drawing 2026-02-03 08.17.03.excalidraw.md",
+    "Cours(MP2I)/Maths/m - 15 Calcul Matriciel.md",
+    "Cours(MP2I)/Maths/Colles/Colle 12.md",
+    "Cours(MP2I)/Maths/m - 14 Lim. & Continu..md",
+    "Cours(MP2I)/Informatique/TD TP/TP 16/TP16.md",
+    "Cours(MP2I)/Maths/m - 10 Analyse asymptotique.md",
+    "Cours(MP2I)/Physique/TP/TP 16.md",
+    "Cours(MP2I)/Physique/TP/TP 15.md"
+  ]
+}

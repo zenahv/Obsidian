@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#d45cf5",
+  "interfaceFontFamily": "DejaVu Sans",
+  "textFontFamily": "DejaVu Sans",
+  "baseFontSize": 21,
+  "cssTheme": "Prism",
+  "monospaceFontFamily": "Source Code Pro",
+  "nativeMenus": false,
+  "showRibbon": false
+}

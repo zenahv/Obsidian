@@ -1,0 +1,459 @@
+{
+  "workspaces": {
+    "Guide Grammaire Japonaise": {
+      "main": {
+        "id": "ae310e607995ce4c",
+        "type": "split",
+        "children": [
+          {
+            "id": "5aa8f974da297439",
+            "type": "tabs",
+            "dimension": 55.096153846153854,
+            "children": [
+              {
+                "id": "d27e8810c6d99ca3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "j - 3 Grammaire"
+                }
+              }
+            ]
+          },
+          {
+            "id": "21232f7f9414c80c",
+            "type": "tabs",
+            "dimension": 44.90384615384615,
+            "children": [
+              {
+                "id": "0a11e24c54530284",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Self Teachings/Japanese studies/j - 3 Grammar.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "j - 3 Grammar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "fd96a8f5a78319d0",
+        "type": "split",
+        "children": [
+          {
+            "id": "06f46762d7554754",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5861b9f7658267c8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "a874633edd217e2a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#NAME",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "2bb6a2a0cc1ef413",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "c044dfe50dd150bd",
+        "type": "split",
+        "children": [
+          {
+            "id": "e2379e5dc15b0276",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75de8811de400d61",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of j - 3 Grammaire"
+                }
+              },
+              {
+                "id": "cd26cb41b5e8bf7b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "539905128eae5e14",
+                "type": "leaf",
+                "state": {
+                  "type": "mathpad-view",
+                  "state": {},
+                  "icon": "sigma",
+                  "title": "Mathpad"
+                }
+              },
+              {
+                "id": "2a1863a6081f1320",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "8aa8ce214bf490aa",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c88a8365c9ea0ee1",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "80f1a924d2032db5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Cours(MP2I)/Français/Correction du résumé.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Correction du résumé"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 296.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:New drawing": true,
+          "mermaid-tools:Open Mermaid Toolbar": true,
+          "japanese-helper:Japanese Helper": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "mathpad:Open Mathpad": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "d27e8810c6d99ca3",
+      "mtime": "2026-05-22T13:34:24+02:00"
+    },
+    "Physique": {
+      "main": {
+        "id": "ae310e607995ce4c",
+        "type": "split",
+        "children": [
+          {
+            "id": "94987e5a503c34b4",
+            "type": "split",
+            "children": [
+              {
+                "id": "5aa8f974da297439",
+                "type": "tabs",
+                "dimension": 59.95370370370371,
+                "children": [
+                  {
+                    "id": "0a11e24c54530284",
+                    "type": "leaf",
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "Cours(MP2I)/Physique/cours.pdf"
+                      },
+                      "icon": "lucide-file-text",
+                      "title": "cours"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7822db65d369bbf6",
+                "type": "tabs",
+                "dimension": 40.0462962962963,
+                "children": [
+                  {
+                    "id": "f1c1a6e8a5c3b20f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Cours(MP2I)/Physique/brouillon.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "brouillon"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "fd96a8f5a78319d0",
+        "type": "split",
+        "children": [
+          {
+            "id": "06f46762d7554754",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5861b9f7658267c8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "a874633edd217e2a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#NAME",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "2bb6a2a0cc1ef413",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "c044dfe50dd150bd",
+        "type": "split",
+        "children": [
+          {
+            "id": "e2379e5dc15b0276",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75de8811de400d61",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Cours(MP2I)/Physique/brouillon.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of brouillon"
+                }
+              },
+              {
+                "id": "cd26cb41b5e8bf7b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "539905128eae5e14",
+                "type": "leaf",
+                "state": {
+                  "type": "mathpad-view",
+                  "state": {},
+                  "icon": "sigma",
+                  "title": "Mathpad"
+                }
+              },
+              {
+                "id": "2a1863a6081f1320",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "8aa8ce214bf490aa",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c88a8365c9ea0ee1",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "80f1a924d2032db5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Cours(MP2I)/Français/Correction du résumé.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Correction du résumé"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 296.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:New drawing": true,
+          "mermaid-tools:Open Mermaid Toolbar": true,
+          "japanese-helper:Japanese Helper": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "mathpad:Open Mathpad": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "f1c1a6e8a5c3b20f",
+      "mtime": "2026-05-21T15:59:00+02:00"
+    }
+  },
+  "active": "Guide Grammaire Japonaise"
+}

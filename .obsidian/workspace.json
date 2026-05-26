@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "ae310e607995ce4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aa8f974da297439",
+        "type": "tabs",
+        "dimension": 55.096153846153854,
+        "children": [
+          {
+            "id": "d27e8810c6d99ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "j - 3 Grammaire"
+            }
+          }
+        ]
+      },
+      {
+        "id": "21232f7f9414c80c",
+        "type": "tabs",
+        "dimension": 44.90384615384615,
+        "children": [
+          {
+            "id": "0a11e24c54530284",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Self Teachings/Japanese studies/j - 3 Grammar.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "j - 3 Grammar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd96a8f5a78319d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "06f46762d7554754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5861b9f7658267c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a874633edd217e2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#NAME",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2bb6a2a0cc1ef413",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c044dfe50dd150bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2379e5dc15b0276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75de8811de400d61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of j - 3 Grammar"
+            }
+          },
+          {
+            "id": "cd26cb41b5e8bf7b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "539905128eae5e14",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
+            }
+          },
+          {
+            "id": "2a1863a6081f1320",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8aa8ce214bf490aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c88a8365c9ea0ee1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "80f1a924d2032db5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Cours(MP2I)/Français/Correction du résumé.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Correction du résumé"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "mermaid-tools:Open Mermaid Toolbar": true,
+      "japanese-helper:Japanese Helper": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "mathpad:Open Mathpad": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d27e8810c6d99ca3",
+  "lastOpenFiles": [
+    "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
+    "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+    "Rappel keybinds.md",
+    "Cours(MP2I)/Informatique/TD TP/TP 27/TP27.pdf",
+    "Cours(MP2I)/Informatique/TD TP/TP 27/TP27.md",
+    "Cours(MP2I)/Informatique/TD TP/TP 27/abr.ml",
+    "Cours(MP2I)/Informatique/TD TP/TP 27/abr.mli",
+    "Cours(MP2I)/Informatique/TD TP/TP 27/les_miserables.txt",
+    "Cours(MP2I)/Informatique/TD TP/TP 27/tas.c",
+    "Cours(MP2I)/Informatique/TD TP/TP 27/test.ml",
+    "Cours(MP2I)/Informatique/TD TP/TP 27",
+    "Cours(MP2I)/Physique/TP/TP 22.pdf",
+    "Cours(MP2I)/Physique/TP/TP 22.md",
+    "Self Teachings/Japanese studies/j - 1 Hiragana Alphabet.md",
+    "Self Teachings/yes.md",
+    "Kanji-Vault-1.0.1/Radicals/丶.md",
+    "Cours(MP2I)/Physique/brouillon.md",
+    "Cours(MP2I)/Settings macro.md",
+    "Cours(MP2I)/Physique/cours.pdf",
+    "Cours(MP2I)/Physique/TD Physique/TD Phénomènes Ondulatoires.md",
+    "Self Teachings/Rust/r - 1 Intro.md",
+    "Self Teachings/Rust/r - 3 Ownership.md",
+    "Self Teachings/Rust/r - 2 Common concepts.md",
+    "Cours(MP2I)/Français/La connaissance de la vie.md",
+    "Cours(MP2I)/Français/Le mur invisible.md",
+    "jisho.org.md",
+    "Cours(MP2I)/Français/Correction du résumé.md",
+    "Calendar/20.05.2026.md",
+    "Calendar/19.05.2026.md",
+    "Calendar/2026-W20.md",
+    "Cours(MP2I)/Anglais/19 mai.md",
+    "Self Teachings/Japanese studies/j - 4 Pitch basics.md",
+    "Lettre de motivation/Double licence - Informatique & Mathématiques - Campus Grands Moulins - Paris Cité.md",
+    "Lettre de motivation/Modèle Lettre de Motivation.md",
+    "Cours(MP2I)/Français/Colle/Relativisme.md",
+    "Random images/Database 1.png",
+    "Random images/Database 2.png",
+    "Random images/Pitch 22.png",
+    "Random images/Pitch 21.png",
+    "Random images/Pitch 20.png",
+    "Random images/Pitch 20.png",
+    "Random images/Pitch 19.png",
+    "Random images/Pitch 18.png",
+    "Random images/Pitch 17.png",
+    "Random images/Pitch 16.png",
+    "Lettre de motivation/Sans titre.canvas",
+    "Untitled.canvas",
+    "Sans titre.canvas",
+    "Math/Untitled.canvas"
+  ]
+}

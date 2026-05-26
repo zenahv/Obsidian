@@ -1,0 +1,33 @@
+Broken_Vessel Ancient_Basin
+Brooding_Mawlek Forgotten_Crossroads
+The_Collector Tower_of_Love
+Crystal_Guardian Crystal_Peak
+Dung_Defender Royal_Waterways
+False_Knight Forgotten_Crossroads
+Flukemarm Royal_Waterways
+Herrah_the_Beast Deepnest Dream_Nail
+Hollow_Knight Temple_of_the_Black_Egg
+Hornet_Protector Greenpath
+Hornet_Sentinel Cast-Off_Shell
+Lurien_the_Watcher Watcher's_Spire Watcher_Knight Dream_Nail
+Mantis_Lords Mantis_Village
+Monomon_the_Teacher Teacher's_Archives Uumuu Dream_Nail
+Nosk Deepnest Monarch_Wings
+Radiance Temple_of_the_Black_Egg Hollow_Knight Void_Heart Dream_Nail
+Soul_Master City_of_Tears
+Traitor_Lord Queen's_Gardens
+Uumuu Teacher's_Archives
+Watcher_Knight Watcher's_Spire
+White_Lady Queen's_Gardens Traitor_Lord
+Pale_King White_Palace
+Elder_Hu Mantis_Village Dream_Nail
+Galien Deepnest Dream_Nail
+Gorb Howling_Cliffs Dream_Nail
+Markoth Kingdom's_Edge Dream_Nail
+Marmu Queen's_Gardens Dream_Nail
+No_Eyes Stone_Sanctuary Dream_Nail
+Xero Resting_Grounds Dream_Nail
+Enraged_Guardian Crystal_Guardian Dream_Nail
+Failed_Champion False_Knight Dream_Nail
+Lost_Kin Broken_Vessel Dream_Nail
+Soul_Tyrant Soul_Master Dream_Nail
