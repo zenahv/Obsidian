@@ -6,7 +6,6 @@
       {
         "id": "5aa8f974da297439",
         "type": "tabs",
-        "dimension": 55.096153846153854,
         "children": [
           {
             "id": "d27e8810c6d99ca3",
@@ -14,32 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+                "file": "Self Teachings/Vim/v - a Rappel keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "j - 3 Grammaire"
-            }
-          }
-        ]
-      },
-      {
-        "id": "21232f7f9414c80c",
-        "type": "tabs",
-        "dimension": 44.90384615384615,
-        "children": [
-          {
-            "id": "0a11e24c54530284",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Self Teachings/Japanese studies/j - 3 Grammar.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "j - 3 Grammar"
+              "title": "v - a Rappel keybinds"
             }
           }
         ]
@@ -99,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c044dfe50dd150bd",
@@ -116,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
+                "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of j - 3 Grammar"
+              "title": "Outline of j - 3 Grammaire"
             }
           },
           {
@@ -222,8 +201,13 @@
   },
   "active": "d27e8810c6d99ca3",
   "lastOpenFiles": [
+    "Self Teachings/Rust/r - 3 Ownership.md",
+    "Self Teachings/Vim/v - a Rappel keybinds.md",
+    "Cours(MP2I)/Settings macro.md",
+    "Cours(MP2I)/Useful LaTeX/LaTeX.md",
     "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
     "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+    "Self Teachings/Vim",
     "Rappel keybinds.md",
     "Cours(MP2I)/Informatique/TD TP/TP 27/TP27.pdf",
     "Cours(MP2I)/Informatique/TD TP/TP 27/TP27.md",
@@ -239,11 +223,8 @@
     "Self Teachings/yes.md",
     "Kanji-Vault-1.0.1/Radicals/丶.md",
     "Cours(MP2I)/Physique/brouillon.md",
-    "Cours(MP2I)/Settings macro.md",
-    "Cours(MP2I)/Physique/cours.pdf",
     "Cours(MP2I)/Physique/TD Physique/TD Phénomènes Ondulatoires.md",
     "Self Teachings/Rust/r - 1 Intro.md",
-    "Self Teachings/Rust/r - 3 Ownership.md",
     "Self Teachings/Rust/r - 2 Common concepts.md",
     "Cours(MP2I)/Français/La connaissance de la vie.md",
     "Cours(MP2I)/Français/Le mur invisible.md",
@@ -256,7 +237,6 @@
     "Self Teachings/Japanese studies/j - 4 Pitch basics.md",
     "Lettre de motivation/Double licence - Informatique & Mathématiques - Campus Grands Moulins - Paris Cité.md",
     "Lettre de motivation/Modèle Lettre de Motivation.md",
-    "Cours(MP2I)/Français/Colle/Relativisme.md",
     "Random images/Database 1.png",
     "Random images/Database 2.png",
     "Random images/Pitch 22.png",

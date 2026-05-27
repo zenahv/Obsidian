@@ -1140,8 +1140,6 @@ En réalité, même si ce ton explicatif est utilisé tout le temps,「のだ」
 Cette grammaire peut sembler avoir de multiples significations, car elle peut non seulement être utilisée avec toutes les formes d'adjectifs, noms ou verbes, mais elle peut <b>aussi</b> elle même être conjuguée comme l'état-d'être.
 Un tableau de conjugaison illustrera ce propos.
 
-
-
 <mark class=pink>Règle</mark>
 
 |               | Nom/Adj en -na                      | Verbe/Adj en -i                   |
@@ -1150,3 +1148,37 @@ Un tableau de conjugaison illustrera ce propos.
 | Negatif       | 学生じゃない<mark class=green>んだ</mark>   | 飲まない<mark class=green>んだ</mark>   |
 | Passé         | 学生だった<mark class=green>んだ</mark>    | 飲んだ<mark class=green>んだ</mark>    |
 | Passé-négatif | 学生じゃなかった<mark class=green>んだ</mark> | 飲まなかった<mark class=green>んだ</mark> |
+
+|               | Nom/Adj en -na                      | Verbe/Adj en -i                    |
+| ------------- | ----------------------------------- | ---------------------------------- |
+| Simple        | 学生<mark class=green>なんだ</mark>      | 飲む<mark class=green>んだ</mark>      |
+| Négatif       | 学生<mark class=green>なんじゃない</mark>   | 飲む<mark class=green>んじゃない</mark>   |
+| Passé         | 学生<mark class=green>なんだった</mark>    | 飲む<mark class=green>んだった</mark>    |
+| Passé-négatif | 学生<mark class=green>なんじゃなかった</mark> | 飲む<mark class=green>んじゃなかった</mark> |
+
+Les Japonais n'emploient quasiment jamais le passé et passé négatif pour les noms et adj en -na dans le 2$^{e}$ tableau (surtout avec「の」) mais elles sont présentées pour compléter le tableau.
+
+La différence cruciale entre utiliser le「の」explicatif et ne rien dire du tout est que l'on dit au lecteur/ à la personne qui nous écoute, "Regarde, voici la raison" contre simplement transmettre une nouvelle information.
+Par exemple si quelqu'un vous demande "êtes vous occupés en ce moment ?", vous pouvez simplement répondre「今は忙しい」.
+
+Cependant, si quelqu'un vous demande "Pourquoi tu ne peux pas me parler ?", comme vous avez évidemment des explications à fournir, vous pouvez répondre「今は忙しいの」ou「今は忙しいんだ」
+Cette grammaire est essentielle pour trouver des explications dans les questions.
+Par exemple, si on veut demander "Eh, n'est il pas tard ?", on ne peut pas juste demander「{遅|おそ}くない？」car cela signifie, "Il n'est pas tard ?". Il faut indiquer que l'on cherche des explications sous la forme de「遅いんじゃない？」.
+
+Voyons des exemples de ces types de situations où cette grammaire est utilisée. 
+Les exemples seront accompagnés d'une traduction littérale afin de montrer plus clairement comment le sens reste le même et se transpose dans des phrases qui, en français courant, seraient de nature très différente.
+Lorsque nécessaire, une seconde traduction sera présente pour donner le sens français aux phrases
+
+<mark class=purple>Exemple</mark> 
+アリス：どこに行く<mark class=green>の</mark>？
+<small>Alice : <u>Mais/attends</u>, où vas tu ?</small>
+ボブ：{授|じゅ}{業|ぎょう}に行く<mark class=green>んだ</mark>。
+<small>Bob : <u>Eh bien/bah</u> je vais en classe (en cours).</small>
+
+Ici le "eh bien" est plutôt du registre familier en français, alors qu'en Japonais le sens est + du language courant que l'on peut utiliser avec ses collègues par exemple (ou ses amis aussi)
+
+アリス：今、授業がある<mark class=green>んじゃない</mark>？
+<small>Alice : <u>N'y a-t-il pas</u> cours en ce moment ?</small>
+ボブ：今は、ない<mark class=green>んだ</mark>。
+<small>Bob : Il n'y <u>en</u> a pas (de cours) en ce moment.</small>
+

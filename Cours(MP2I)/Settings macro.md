@@ -4,6 +4,7 @@
     {trigger: "cont", replacement:"\mathscr C($0,$1)$2", options: "mA"},
     {trigger: "kattt", replacement:"🐈", options: "tA"},
     {trigger: "ndiv", replacement: "\\nmid", options: "mA"},
+    {trigger: "ttt", replacement: "\\texttt{$0}$1", options: "mA"},
     {trigger: "dim", replacement: "\\mathrm{dim}($0)$1", options: "mA"},
     {trigger: "coll", replacement: "{\\color{$0}$1}$2", options: "mA"},
     {trigger: "deff", replacement: "<mark class=grey>Définition</mark>\n >$0", options: "tA"},
