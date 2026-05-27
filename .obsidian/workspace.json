@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Teachings/Vim/v - a Rappel keybinds.md",
+                "file": "Self Teachings/Lua/Basic Lua stuff for NVim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "v - a Rappel keybinds"
+              "title": "Basic Lua stuff for NVim"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+                "file": "Self Teachings/Lua/Basic Lua stuff for NVim.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of j - 3 Grammaire"
+              "title": "Outline of Basic Lua stuff for NVim"
             }
           },
           {
@@ -112,8 +112,8 @@
               "type": "calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -161,8 +161,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -176,9 +176,18 @@
               "icon": "lucide-info",
               "title": "File properties for Correction du résumé"
             }
+          },
+          {
+            "id": "7863e1ff66894a8e",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,18 +200,21 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": true,
-      "mermaid-tools:Open Mermaid Toolbar": true,
-      "japanese-helper:Japanese Helper": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "mathpad:Open Mathpad": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "japanese-helper:Japanese Helper": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mathpad:Open Mathpad": false
     }
   },
   "active": "d27e8810c6d99ca3",
   "lastOpenFiles": [
-    "Self Teachings/Rust/r - 3 Ownership.md",
+    "Self Teachings/Rust/r - 1 Intro.md",
+    "Self Teachings/Lua/Basic Lua stuff for NVim.md",
+    "Self Teachings/Lua",
     "Self Teachings/Vim/v - a Rappel keybinds.md",
+    "Self Teachings/Rust/r - 3 Ownership.md",
     "Cours(MP2I)/Settings macro.md",
     "Cours(MP2I)/Useful LaTeX/LaTeX.md",
     "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
@@ -217,14 +229,12 @@
     "Cours(MP2I)/Informatique/TD TP/TP 27/tas.c",
     "Cours(MP2I)/Informatique/TD TP/TP 27/test.ml",
     "Cours(MP2I)/Informatique/TD TP/TP 27",
-    "Cours(MP2I)/Physique/TP/TP 22.pdf",
     "Cours(MP2I)/Physique/TP/TP 22.md",
     "Self Teachings/Japanese studies/j - 1 Hiragana Alphabet.md",
     "Self Teachings/yes.md",
     "Kanji-Vault-1.0.1/Radicals/丶.md",
     "Cours(MP2I)/Physique/brouillon.md",
     "Cours(MP2I)/Physique/TD Physique/TD Phénomènes Ondulatoires.md",
-    "Self Teachings/Rust/r - 1 Intro.md",
     "Self Teachings/Rust/r - 2 Common concepts.md",
     "Cours(MP2I)/Français/La connaissance de la vie.md",
     "Cours(MP2I)/Français/Le mur invisible.md",
@@ -236,7 +246,6 @@
     "Cours(MP2I)/Anglais/19 mai.md",
     "Self Teachings/Japanese studies/j - 4 Pitch basics.md",
     "Lettre de motivation/Double licence - Informatique & Mathématiques - Campus Grands Moulins - Paris Cité.md",
-    "Lettre de motivation/Modèle Lettre de Motivation.md",
     "Random images/Database 1.png",
     "Random images/Database 2.png",
     "Random images/Pitch 22.png",
