@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c044dfe50dd150bd",
@@ -210,6 +211,7 @@
   },
   "active": "d27e8810c6d99ca3",
   "lastOpenFiles": [
+    "Random images/Lua - 1.png",
     "Self Teachings/Rust/r - 1 Intro.md",
     "Self Teachings/Lua/Basic Lua stuff for NVim.md",
     "Self Teachings/Lua",
@@ -245,7 +247,6 @@
     "Calendar/2026-W20.md",
     "Cours(MP2I)/Anglais/19 mai.md",
     "Self Teachings/Japanese studies/j - 4 Pitch basics.md",
-    "Lettre de motivation/Double licence - Informatique & Mathématiques - Campus Grands Moulins - Paris Cité.md",
     "Random images/Database 1.png",
     "Random images/Database 2.png",
     "Random images/Pitch 22.png",
