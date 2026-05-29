@@ -11,15 +11,12 @@
             "id": "d27e8810c6d99ca3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Self Teachings/Lua/Basic Lua stuff for NVim.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Cours(MP2I)/Informatique/TD TP/TP 28/TP28.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Basic Lua stuff for NVim"
+              "icon": "lucide-file-text",
+              "title": "TP28"
             }
           }
         ]
@@ -79,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c044dfe50dd150bd",
@@ -188,7 +184,8 @@
               "title": "Mathpad"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -211,13 +208,20 @@
   },
   "active": "d27e8810c6d99ca3",
   "lastOpenFiles": [
+    "Cours(MP2I)/Physique/TP/TP 23.pdf",
+    "Cours(MP2I)/Informatique/TD TP/TP 28/TP28.pdf",
+    "Cours(MP2I)/Informatique/TD TP/TP 28/myboolean.h",
+    "Cours(MP2I)/Informatique/TD TP/TP 28/À_la_recherche_du_temps_perdu.txt",
+    "Cours(MP2I)/Informatique/TD TP/TP 28/TP28.c",
+    "Cours(MP2I)/Informatique/TD TP/TP 28",
+    "Cours(MP2I)/Physique/TP/TP 23.md",
+    "Cours(MP2I)/Settings macro.md",
+    "Self Teachings/Lua/Basic Lua stuff for NVim.md",
     "Random images/Lua - 1.png",
     "Self Teachings/Rust/r - 1 Intro.md",
-    "Self Teachings/Lua/Basic Lua stuff for NVim.md",
     "Self Teachings/Lua",
     "Self Teachings/Vim/v - a Rappel keybinds.md",
     "Self Teachings/Rust/r - 3 Ownership.md",
-    "Cours(MP2I)/Settings macro.md",
     "Cours(MP2I)/Useful LaTeX/LaTeX.md",
     "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
     "Self Teachings/Japanese studies/j - 3 Grammaire.md",
@@ -226,11 +230,6 @@
     "Cours(MP2I)/Informatique/TD TP/TP 27/TP27.pdf",
     "Cours(MP2I)/Informatique/TD TP/TP 27/TP27.md",
     "Cours(MP2I)/Informatique/TD TP/TP 27/abr.ml",
-    "Cours(MP2I)/Informatique/TD TP/TP 27/abr.mli",
-    "Cours(MP2I)/Informatique/TD TP/TP 27/les_miserables.txt",
-    "Cours(MP2I)/Informatique/TD TP/TP 27/tas.c",
-    "Cours(MP2I)/Informatique/TD TP/TP 27/test.ml",
-    "Cours(MP2I)/Informatique/TD TP/TP 27",
     "Cours(MP2I)/Physique/TP/TP 22.md",
     "Self Teachings/Japanese studies/j - 1 Hiragana Alphabet.md",
     "Self Teachings/yes.md",
@@ -246,7 +245,6 @@
     "Calendar/19.05.2026.md",
     "Calendar/2026-W20.md",
     "Cours(MP2I)/Anglais/19 mai.md",
-    "Self Teachings/Japanese studies/j - 4 Pitch basics.md",
     "Random images/Database 1.png",
     "Random images/Database 2.png",
     "Random images/Pitch 22.png",
@@ -256,7 +254,6 @@
     "Random images/Pitch 19.png",
     "Random images/Pitch 18.png",
     "Random images/Pitch 17.png",
-    "Random images/Pitch 16.png",
     "Lettre de motivation/Sans titre.canvas",
     "Untitled.canvas",
     "Sans titre.canvas",
