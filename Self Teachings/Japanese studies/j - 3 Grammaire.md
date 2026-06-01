@@ -1182,3 +1182,18 @@ Ici le "eh bien" est plutôt du registre familier en français, alors qu'en Japo
 ボブ：今は、ない<mark class=green>んだ</mark>。
 <small>Bob : Il n'y <u>en</u> a pas (de cours) en ce moment.</small>
 
+
+
+アリス：今、授業がない<mark class=green>んじゃない</mark>？
+<small>Alice : <u>Il n'y a pas</u> pas cours en ce moment ?</small>
+ボブ：ううん、ある。
+<small>Bob : Non, il y a (cours).</small>
+
+アリス：その人が買う<mark class=green>んじゃなかったの</mark> ?
+<small>Alice : Cette personne <u>n'était elle pas</u> celle <u>qui devait</u> acheter quelque chose ?</small>
+<small>Traduction plus compréhensible : <br>Alice : Cette personne <u>n'allait elle pas</u> l'acheter ?</small>
+
+ボブ：ううん、先生が買う<mark class=green>んだ</mark>。
+<small>Bob : Non, <u>c'est ce</u> prof qui est celui qui va l'acheter</small>
+<small>Traduction plus compréhensible : <br>Bob : Non, c'est ce prof qui va l'acheter</small>
+
