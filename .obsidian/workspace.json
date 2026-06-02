@@ -6,7 +6,7 @@
       {
         "id": "5aa8f974da297439",
         "type": "tabs",
-        "dimension": 55.096153846153854,
+        "dimension": 55.08982035928144,
         "children": [
           {
             "id": "d27e8810c6d99ca3",
@@ -28,7 +28,7 @@
       {
         "id": "21232f7f9414c80c",
         "type": "tabs",
-        "dimension": 44.90384615384615,
+        "dimension": 44.91017964071856,
         "children": [
           {
             "id": "0a11e24c54530284",
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NAME",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,12 +95,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c044dfe50dd150bd",
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+                "file": "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of j - 3 Grammaire"
+              "title": "Outline of j - 3 Grammar"
             }
           },
           {
@@ -219,10 +219,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d27e8810c6d99ca3",
+  "active": "0a11e24c54530284",
   "lastOpenFiles": [
-    "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
     "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+    "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
     "Self Teachings/Rust/rust_book.pdf",
     "Cours(MP2I)/Informatique/TD TP/TP 28/TP28.pdf",
     "Cours(MP2I)/Physique/TP/TP 23.pdf",

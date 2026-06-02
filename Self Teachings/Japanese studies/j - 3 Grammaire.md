@@ -5,7 +5,7 @@ aliases:
 
 ## 1 - Utiliser "だ" pour exprimer l'état-d'être
 
-Un des aspects les plus compliqués en Japonais est l'absence du verbe "être" comme on en a l'habitude. Cependant, on peut déclarer ce qu'est quelque chose en attachant le hiragana 「だ」 à un nom ou à un adjectif en -na (seulement).  
+Un des aspects les plus compliqués en Japonais est l'absence du verbe "être" comme on en a l'habitude. Cependant, on peut déclarer ce qu'est quelque chose en attachant le hiragana  「だ」  à un nom ou à un adjectif en -na (seulement).  
 
 <mark class=purple>Exemple</mark>
 {人|ひと}だ \\ est 人
@@ -18,7 +18,7 @@ Un des aspects les plus compliqués en Japonais est l'absence du verbe "être" c
 {元|げん}{気|き}？ \\ (Vas tu) bien ?  (Pas réellement utilisé dans le language courant)
 
 ---
-### a - Déclinaisons de 「だ」
+### a - Déclinaisons de  「だ」 
 
 <mark class=pink>Règle</mark>
 >En japonais, on exprime le négatif et le passé en conjuguant/déclinant. On peut 
@@ -33,14 +33,14 @@ Ce n'est pas exactement l'accord en genre et en nombre français car :
 En réalité, ce n'est pas non plus une déclinaison car c'est différent des déclinaisons en allemand, latin ou russe selon les cas.
 Le terme déclinaison est ici employé dans le sens de "conjugaison" mais qui n'est pas exclusive aux verbes.
 
-Cela peut sembler un peu difficile à comprendre au début, mais aucune de ces déclinaisons de l'état-d'être ne donne un caractère déclaratif à la phrase, contrairement à 「だ」. Rendre ces temps déclaratifs en ajoutant 「だ」 à la fin de la phrase se fait différemment.
+Cela peut sembler un peu difficile à comprendre au début, mais aucune de ces déclinaisons de l'état-d'être ne donne un caractère déclaratif à la phrase, contrairement à  「だ」 . Rendre ces temps déclaratifs en ajoutant  「だ」  à la fin de la phrase se fait différemment.
 
-Vous verrez plus tard que certaines utilisations seront dépendantes de la déclinaison de「だ」
+Vous verrez plus tard que certaines utilisations seront dépendantes de la déclinaison de 「だ」 
 
 ---
 #### Négatif
 <mark class=pink>Règle</mark>
->Pour exprimer le négatif de l'état-d'être, il suffit d'attacher 「じゃない」
+>Pour exprimer le négatif de l'état-d'être, il suffit d'attacher  「じゃない」 
 >à la fin du nom/adjectif en -na dont on veut exprimer le négatif.
 
 <mark class=purple>Exemple</mark>
@@ -50,11 +50,11 @@ Vous verrez plus tard que certaines utilisations seront dépendantes de la décl
 ---
 #### Passé
 <mark class=pink>Règle</mark>
->Pour exprimer l'état-d'être au passé, il suffit d'attacher 「だった」
+>Pour exprimer l'état-d'être au passé, il suffit d'attacher  「だった」 
 >à la fin du nom/adjectif en -na dont on veut exprimer le passé.
 <mark class=pink>Règle</mark>
->Pour exprimer l'absence d'état-d'être au passé, il suffit d'enlever le 「い」de 「じゃない」
->du négatif, puis d'ajouter 「かった」à la fin de celui-ci.
+>Pour exprimer l'absence d'état-d'être au passé, il suffit d'enlever le  「い」 de  「じゃない」 
+>du négatif, puis d'ajouter  「かった」 à la fin de celui-ci.
 
 <mark class=purple>Exemple</mark>
 {友|とも}{達|だち} ${\color{crimson}\to}$ 友達だった
@@ -65,7 +65,7 @@ Vous verrez plus tard que certaines utilisations seront dépendantes de la décl
 ---
 ## 2 - Introduction aux particules
 
-### a - Le「は」, particule de thème
+### a - Le 「は」 , particule de thème
 <mark class=cyan>Note</mark>
 >Ici prononcé "わ"
 
@@ -90,11 +90,11 @@ L'examen de la 1$^{ere}$ phrase fait également partie du contexte.
 Même si la dernière phrase veut littéralement dire "demain", comme le Japonais est un <u>language contextuel</u>, il est grammaticalement correct de la traduire comme "Quant à John, l'examen est demain."
 
 ---
-### b - Le「も」, particule de thème inclusive
+### b - Le 「も」 , particule de thème inclusive
 
 Cette particule est très facile à comprendre, 
 Quand un thème est déjà établi (cela peut être juste avant le thème de も), 
-utiliser la particule 「も」permet d'inclure le mot juste avant dans le thème.
+utiliser la particule  「も」 permet d'inclure le mot juste avant dans le thème.
 
 <mark class=purple>Exemple</mark>
 
@@ -119,11 +119,11 @@ Pour exprimer correctement le fait que アリス l'est et que トム ne l'est pa
 Avec でも qui exprime explicitement les réponses opposées.
 
 ---
-### c - Le「が」, particule identificatrice
+### c - Le 「が」 , particule identificatrice
 
-On peut établir le thème avec「は」et「も」、mais que se passe-t-il si on ne <u>sait pas</u> quel est le thème ?
-La particule「が」est la particule de "sujet" (cependant, le sujet est différent du concept de sujet dans la grammaire française), ou particule "d'identification".
-La particule「が」indique ce que la personne souhaite identifier.
+On peut établir le thème avec 「は」 et 「も」 、mais que se passe-t-il si on ne <u>sait pas</u> quel est le thème ?
+La particule 「が」 est la particule de "sujet" (cependant, le sujet est différent du concept de sujet dans la grammaire française), ou particule "d'identification".
+La particule 「が」 indique ce que la personne souhaite identifier.
 
 <mark class=purple>Exemple</mark>
 ボブ：{誰|だれ}<mark class=green>が</mark>学生？
@@ -142,7 +142,7 @@ Bob souhaite <u>identifier</u> qui est l'étudiant parmi plusieurs personnes pot
 <small>Qui est (un) étudiant ?</small>
 
 ---
-<mark class=cyan>Note</mark> Les particules 「は」et「が」peuvent paraître similaires car c'est difficile de distinguer le concept dans d'autres langues, ce qui résulte en une traduction identique dans la plupart des langues.
+<mark class=cyan>Note</mark> Les particules  「は」 et 「が」 peuvent paraître similaires car c'est difficile de distinguer le concept dans d'autres langues, ce qui résulte en une traduction identique dans la plupart des langues.
 
 <mark class=purple>Exemple</mark>
 {私|わたし}<mark class=green>は</mark>学生。
@@ -150,15 +150,15 @@ Bob souhaite <u>identifier</u> qui est l'étudiant parmi plusieurs personnes pot
 私<mark class=green>が</mark>学生。
 <small>Je (suis) étudiant.</small>
 
-Dans la 1$^{ere}$ phrase, come 「私」est le thème, on pourrait traduire plus précisément en : "Quant à moi, je suis étudiant.e."
-Cela met l'accent davantage sur「私」plutôt que「学生」
+Dans la 1$^{ere}$ phrase, come  「私」 est le thème, on pourrait traduire plus précisément en : "Quant à moi, je suis étudiant.e."
+Cela met l'accent davantage sur 「私」 plutôt que 「学生」 
 
-La seconde phrase identifie le「学生」. On sait grâce à「が」que le「学生」est「私」.
+La seconde phrase identifie le 「学生」 . On sait grâce à 「が」 que le 「学生」 est 「私」 .
 On peut l'imaginer comme répondre à une question imaginaire du type : "Qui est celui qui est étudiant ?"
 On peut exprimer ce sens mieux en le traduisant comme : "Je suis celui qui est (un) étudiant."
 
 ---
-<mark class=cyan>Note</mark> En réalité, les particules「は」et「が」sont très différentes si on y réfléchit bien. La particule「が」identifie la propriété spécifique de quelque chose, alors que la particule「は」est utilisée seulement pour amener un nouveau sujet de conversation (ou thème). C'est pourquoi, dans les phrases plus longues, il est courant de séparer le sujet par des virgules afin d'éviter toute ambiguïté quant à la partie de la phrase à laquelle il se rapporte.
+<mark class=cyan>Note</mark> En réalité, les particules 「は」 et 「が」 sont très différentes si on y réfléchit bien. La particule 「が」 identifie la propriété spécifique de quelque chose, alors que la particule 「は」 est utilisée seulement pour amener un nouveau sujet de conversation (ou thème). C'est pourquoi, dans les phrases plus longues, il est courant de séparer le sujet par des virgules afin d'éviter toute ambiguïté quant à la partie de la phrase à laquelle il se rapporte.
 
 ---
 ## 3 - Adjectifs
@@ -169,7 +169,7 @@ Un adjectif est utilisé pour décrire un nom. Un adjectif peut directement modi
 
 <mark class=pink>Règle</mark>
 >L'adjectif en -na agit tout comme un nom, les règles de conjugaison sont les mêmes pour les deux.
->La différence principale est que l'adjectif en -na  peut directement modifier un nom en ajoutant「な」entre les deux.
+>La différence principale est que l'adjectif en -na  peut directement modifier un nom en ajoutant 「な」 entre les deux.
 
 <mark class=purple>Exemple</mark>
 {静|しず}か<mark class=green>な</mark>人。
@@ -190,15 +190,15 @@ Un adjectif est utilisé pour décrire un nom. Un adjectif peut directement modi
 ボブは魚が<mark class=green>好きじゃなかった</mark>。
 <small>Bob n'aimait pas le poisson.</small>
 
-<mark class=cyan>Note</mark> On peut voir「好き」comme "désirable" à la place .
-Cet exemple permet également de bien montrer les particules 「は」et「が」qui sont utilisées ensemble,
+<mark class=cyan>Note</mark> On peut voir 「好き」 comme "désirable" à la place .
+Cet exemple permet également de bien montrer les particules  「は」 et 「が」 qui sont utilisées ensemble,
 tout en montrant leurs différences.
 Le thème est Bob et identifie le poisson en quelque chose qu'il apprécie ou non.
 
 ---
 
 On peut aussi utiliser les 3 dernières déclinaisons pour modifier directement le nom
-(Il faut se rappeler d'utiliser「な」pour le positif non-passé)
+(Il faut se rappeler d'utiliser 「な」 pour le positif non-passé)
 
 <mark class=purple>Exemple</mark>
 魚が<mark class=green>好き<u>な</u></mark>人。
@@ -210,8 +210,8 @@ On peut aussi utiliser les 3 dernières déclinaisons pour modifier directement 
 魚が<mark class=green>好きじゃなかった</mark>人。
 <small>Personne qui n'aimait pas le poisson.</small>
 
-<mark class=cyan>Note</mark> Ici, la clause「魚が好き」qualifie le mot "personne" pour désigner celles qui aiment ou n'aiment pas le poisson.
-Cette structure est essentielle car「人は魚が好きだ」voudrait dire "Les gens aiment le poisson" ce qui n'est pas forcément vrai
+<mark class=cyan>Note</mark> Ici, la clause 「魚が好き」 qualifie le mot "personne" pour désigner celles qui aiment ou n'aiment pas le poisson.
+Cette structure est essentielle car 「人は魚が好きだ」 voudrait dire "Les gens aiment le poisson" ce qui n'est pas forcément vrai
 
 ---
 
@@ -226,14 +226,14 @@ On peut faire de la clause entière le thème.
 
 ---
 ### b - L'adjectif en -i
-Tous les adjectifs en -i terminent en「い」
-Mais cela ne veut pas dire que les adjectifs en -na ne peuvent pas terminer en「い」également.
-「きれい」et「{嫌|きら}い」sont des adjectifs en -na qui terminent en「い」
+Tous les adjectifs en -i terminent en 「い」 
+Mais cela ne veut pas dire que les adjectifs en -na ne peuvent pas terminer en 「い」 également.
+ 「きれい」 et 「{嫌|きら}い」 sont des adjectifs en -na qui terminent en 「い」 
 
 - Conseils pour savoir si c'est un adjectif en -na  :
-	Il y a très peu d'adjectifs en -na qui terminent en「い」qui ne sont pas écrits habituellement en kanji. Deux des plus communs sont : 「きれい」et「嫌い」. Presque tous les autres adjectifs en -na qui finissent「い」sont généralement écrits en kanji et donc on peut facilement distinguer le fait que ce n'est pas un adjectif en -i. Par exemple, 「きれい」 écrit en kanji nous donne「綺麗」 ou 「奇麗」. Comme le「い」dans「麗」fait partie d'un kanji, alors il ne peut pas être un adjectif en -i. C'est car le principe d'avoir un「い」dans les adjectifs en -i est de permettre de conjuguer sans changer le kanji. D'ailleurs, 「嫌い」est l'un des seuls adjectifs en -na à finir en「い」sans un kanji. Cela est du au fait que「嫌い」est dérivé du verbe「嫌う」.
+	Il y a très peu d'adjectifs en -na qui terminent en 「い」 qui ne sont pas écrits habituellement en kanji. Deux des plus communs sont :  「きれい」 et 「嫌い」 . Presque tous les autres adjectifs en -na qui finissent 「い」 sont généralement écrits en kanji et donc on peut facilement distinguer le fait que ce n'est pas un adjectif en -i. Par exemple,  「きれい」  écrit en kanji nous donne 「綺麗」  ou  「奇麗」 . Comme le 「い」 dans 「麗」 fait partie d'un kanji, alors il ne peut pas être un adjectif en -i. C'est car le principe d'avoir un 「い」 dans les adjectifs en -i est de permettre de conjuguer sans changer le kanji. D'ailleurs,  「嫌い」 est l'un des seuls adjectifs en -na à finir en 「い」 sans un kanji. Cela est du au fait que 「嫌い」 est dérivé du verbe 「嫌う」 .
 
-Il n'est pas nécessaire「な」à la fin d'un mot avec les adjectifs en -i.
+Il n'est pas nécessaire 「な」 à la fin d'un mot avec les adjectifs en -i.
 
 <mark class=purple>Exemple</mark>
 na-adj :
@@ -246,12 +246,12 @@ i-adj :
 
 ---
 
-><mark class=red><big><big>⚠</big></big></mark> Ne pas attacher le「だ」déclaratif aux adjectifs en -i.
+><mark class=red><big><big>⚠</big></big></mark> Ne pas attacher le 「だ」 déclaratif aux adjectifs en -i.
 
 Règles de conjugaisons pour les adjectifs en -i :
 <mark class=pink>Règle</mark> 
->Négatif : Supprimer le「い」de fin et ajouter「くない」
->Passé : Supprimer le「い」de fin et ajouter「かった」
+>Négatif : Supprimer le 「い」 de fin et ajouter 「くない」 
+>Passé : Supprimer le 「い」 de fin et ajouter 「かった」 
 
 <mark class=purple>Exemple</mark>
 Avec {高|たか}い
@@ -268,7 +268,7 @@ Avec {高|たか}い
 高くなかったビル。
 <small>Immeuble qui n'était pas grand.</small>
 
-Cela marche comme les adjectifs en -na sans le「な」
+Cela marche comme les adjectifs en -na sans le 「な」 
 
 On peut faire des clauses descriptives nominales de la même manière.
 
@@ -283,31 +283,31 @@ Il y a un adjectif en -i qui veut dire "bon" qui se comporte légèrement diffé
 C'est un exemple typique pour montrer que l'apprentissage du Japonais est plus difficile pour les débutants, car les mots les plus communs et utiles sont aussi ceux qui ont le plus d'exceptions. 
 
 
-<mark class=cyan>Note</mark> Le mot pour "bon" était initialement「よい（良い）」. Cependant avec le temps, il est devenu「いい」.
-Quand il est écrit en Kanji, il est généralement lu en tant que「よい」donc「いい」est quasiment exclusivement en hiragana. 
-Tout ça c'est très bien. Malheureusement, toutes les conjugaisons sont toujours dérivées de「よい」et non「いい」.
+<mark class=cyan>Note</mark> Le mot pour "bon" était initialement 「よい（良い）」 . Cependant avec le temps, il est devenu 「いい」 .
+Quand il est écrit en Kanji, il est généralement lu en tant que 「よい」 donc 「いい」 est quasiment exclusivement en hiragana. 
+Tout ça c'est très bien. Malheureusement, toutes les conjugaisons sont toujours dérivées de 「よい」 et non 「いい」 .
 Cela est montré dans la prochaine table.
 
 ---
-Un autre adjectif du genre est「かっこいい」car c'est une version abrégée de deux mots fusionnés :
-「{格好|かっこ}」 and 「いい」.
-Comme il utilise le même「いい」, il faudra utiliser les mêmes conjugaisons.
+Un autre adjectif du genre est 「かっこいい」 car c'est une version abrégée de deux mots fusionnés :
+ 「{格好|かっこ}」  and  「いい」 .
+Comme il utilise le même 「いい」 , il faudra utiliser les mêmes conjugaisons.
 
-Table pour「いい」
+Table pour 「いい」 
 
 |           | Positif | Négatif |
 | --------- | ------- | ------- |
 | Non-passé | いい      | よくない    |
 | Passé     | よかった    | よくなかった  |
 
-Table pour「かっこいい」
+Table pour 「かっこいい」 
 
 |           | Positif | Negatif   |
 | --------- | ------- | --------- |
 | Non-passé | かっこいい   | かっこよくない   |
 | Passé     | かっこよかった | かっこよくなかった |
 
-Donc on conjugue「よい」et non「いい」.
+Donc on conjugue 「よい」 et non 「いい」 .
 
 <mark class=purple>Exemple</mark>
 値段があまり{良|よ}くない。
@@ -327,7 +327,7 @@ Nous allons voir les 3 principales catégories de verbes
 
 ---
 <mark class=cyan>Note</mark>
->Une phrase grammaticalement complète ne nécessite <u>uniquement</u> un verbe.(Etat-d'être en 「だ」inclus)
+>Une phrase grammaticalement complète ne nécessite <u>uniquement</u> un verbe.(Etat-d'être en  「だ」 inclus)
 
 C'est pourquoi les phrases les plus communes en Japonais ne peuvent pas être traduites mot à mot.
 
@@ -341,19 +341,19 @@ C'est pourquoi les phrases les plus communes en Japonais ne peuvent pas être tr
 On doit savoir comment les verbes sont catégorisés.
 Tous les verbes (sauf deux) rentrent dans les catégories des verbes en -ru et verbes en -u.
 <mark class=pink>Règle</mark>
->Tous les verbes en -ru finissent en「る」et tous les verbes en -u finissent avec une voyelle en -u,「る」inclus.
+>Tous les verbes en -ru finissent en 「る」 et tous les verbes en -u finissent avec une voyelle en -u, 「る」 inclus.
 
-Par conséquent, si un verbe ne finit <b>pas</b> en「る」alors c'est un verbe en -u.
+Par conséquent, si un verbe ne finit <b>pas</b> en 「る」 alors c'est un verbe en -u.
 
-<mark class=pink>Règle</mark> $\to$ Pour les verbes qui finissent en「る」:
->Si le son de voyelle précédant「る」est un son de voyelle en /a/, /u/ or /o/, alors ce sera <u><b>toujours</b></u> verbe en -u
+<mark class=pink>Règle</mark> $\to$ Pour les verbes qui finissent en 「る」 :
+>Si le son de voyelle précédant 「る」 est un son de voyelle en /a/, /u/ or /o/, alors ce sera <u><b>toujours</b></u> verbe en -u
 
 Sinon, ce sera <u>probablement</u> un verbe en -ru.
 Une liste des exceptions communes sera donnée.
 
 <mark class=purple>Exemple</mark>
-食べる - 「べ」est une voyelle en -e, donc c'est un verbe en -ru.
-{分|わ}かる - 「か」est une voyelle en -a, donc c'est un verbe en -u.
+食べる -  「べ」 est une voyelle en -e, donc c'est un verbe en -ru.
+{分|わ}かる -  「か」 est une voyelle en -a, donc c'est un verbe en -u.
 <small>Comprendre/Savoir</small>.
 
 ---
@@ -369,8 +369,8 @@ Voici une liste de verbes communs (Les 2 seules exceptions inclus)
 | {考\|かんが}える (réfléchir)                      | {待\|ま}つ (attendre)        |                 |
 | {教\|おし}える (enseigner)                       | {飲\|の}む (boire)           |                 |
 | {出\|で}る (sortir)                            | {買\|か}う (acheter)         |                 |
-| いる (exister 「animé」 )                       | ある (exister 「inanimé」 )   |                 |
-| {着\|き}る (porter「vêtements」)                 | {死\|し}ぬ (mourrir)         |                 |
+| いる (exister  「animé」  )                       | ある (exister  「inanimé」  )   |                 |
+| {着\|き}る (porter 「vêtements」 )                 | {死\|し}ぬ (mourrir)         |                 |
 
 ---
 ### c - Forme négative
@@ -379,11 +379,11 @@ Pour exprimer une action qui n'est pas effectuée, on conjugue les verbes plus o
 Cependant, les règles appliquées aux verbes diffèrent un peu de celles des noms et adjectifs.
 
 ---
-Avant quoi que ce soit, voyons une exception,「ある」。
+Avant quoi que ce soit, voyons une exception, 「ある」 。
 
-Son équivalent pour les objets animés,「いる」est un verbe en -ru normal. Si on veut exprimer l'existence d'un objet dans une pièce, on utilise「ある」et si on veut exprimer l'existence d'une personne dans une pièce, on utilise「いる」。
+Son équivalent pour les objets animés, 「いる」 est un verbe en -ru normal. Si on veut exprimer l'existence d'un objet dans une pièce, on utilise 「ある」 et si on veut exprimer l'existence d'une personne dans une pièce, on utilise 「いる」 。
 <mark class=pink>Règle</mark>
->Le négatif de「ある」est「ない」. <small>signifiant que quelque chose n'existe pas</small>
+>Le négatif de 「ある」 est 「ない」 . <small>signifiant que quelque chose n'existe pas</small>
 
 ---
 Tous les autres verbes suivent ces règles de conjugaison
@@ -391,11 +391,11 @@ Tous les autres verbes suivent ces règles de conjugaison
 <span style="color:red">＊</span> -> Exceptions qui s'appliquent à la conjugaison au négatif
 
 <mark class=pink>Règle</mark>
->- Verbes en -ru : Retirer le「る」à la fin du verbe et ajouter「ない」.
+>- Verbes en -ru : Retirer le 「る」 à la fin du verbe et ajouter 「ない」 .
 >	Exemple : 食べ<s>る</s> + ない = たべ<u>ない</u>
->- <span style="color:red">＊</span> Verbes en -u qui finissent en「う」: Remplacer le「う」par「わ」et ajouter「ない」 
+>- <span style="color:red">＊</span> Verbes en -u qui finissent en 「う」 : Remplacer le 「う」 par 「わ」 et ajouter 「ない」  
 >	Exemple : 買<s>う</s> + わ + ない =  買<u>わない</u>
->- Pour tous les autres verbes en -u : Remplacer la voyelle en -u par son équivalent en -a et ajouter「ない」 
+>- Pour tous les autres verbes en -u : Remplacer la voyelle en -u par son équivalent en -a et ajouter 「ない」  
 >	Example : 待<s>つ</s> + た + ない = 待<u>たない</u>
 >- Exceptions :
 >	1. する$\to$ しない
@@ -409,13 +409,13 @@ Exemples de conjugaison de la forme négative
 | ------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | {見\|み}る ${\color{crimson}\to}$見ない (regarder)<br> $\cancel{ \text{voir} }$ | {話\|はな}す ${\color{crimson}\to}$ 話さない (parler)           | する ${\color{crimson}\to}$ しない (faire)                                             |
 | {食\|た}べる ${\color{crimson}\to}$ 食べない (manger)                             | {聞\|き}く ${\color{crimson}\to}$ 聞かない (demander/écouter)  | {来\|く}る ${\color{crimson}\to}$ こかい (arriver)                                      |
-| {寝\|ね}る ${\color{crimson}\to}$ 寝ない (dormir)                               | {泳\|およ}ぐ ${\color{crimson}\to}$ 泳がない (nager)            | <span style="color:red">＊</span> ある ${\color{crimson}\to}$ ない (exister 「inanimé」) |
+| {寝\|ね}る ${\color{crimson}\to}$ 寝ない (dormir)                               | {泳\|およ}ぐ ${\color{crimson}\to}$ 泳がない (nager)            | <span style="color:red">＊</span> ある ${\color{crimson}\to}$ ない (exister  「inanimé」 ) |
 | {起\|お}きる ${\color{crimson}\to}$ 起きない (se réveiller/se produire)           | {遊\|あそ}ぶ ${\color{crimson}\to}$ 遊ばない (jouer)            |                                                                                   |
 | {考\|かんが}える ${\color{crimson}\to}$考えない (réfléchir)                         | {待\|ま}つ ${\color{crimson}\to}$ 待たない (attendre)          |                                                                                   |
 | {教\|おし}える ${\color{crimson}\to}$ 教えない (enseigner)                         | {飲\|の}む ${\color{crimson}\to}$ 飲まない (boire)             |                                                                                   |
 | {出\|で}る ${\color{crimson}\to}$ 出ない (sortir)                               | {買\|か}う ${\color{crimson}\to}$ 買<u>わ</u>ない(acheter)     |                                                                                   |
-| {着\|き}る ${\color{crimson}\to}$ 着ない (porter「vêtements」)                    | {帰\|かえ}る ${\color{crimson}\to}$ 帰らない (rentrer chez soi) |                                                                                   |
-| いる ${\color{crimson}\to}$ いない (exister 「animé」)                           | {死\|し}ぬ ${\color{crimson}\to}$ 死なない (mourrir)           |                                                                                   |
+| {着\|き}る ${\color{crimson}\to}$ 着ない (porter 「vêtements」 )                    | {帰\|かえ}る ${\color{crimson}\to}$ 帰らない (rentrer chez soi) |                                                                                   |
+| いる ${\color{crimson}\to}$ いない (exister  「animé」 )                           | {死\|し}ぬ ${\color{crimson}\to}$ 死なない (mourrir)           |                                                                                   |
 
 <mark class=purple>Exemple</mark>
 アリスは<u>食べない</u>。
@@ -440,7 +440,7 @@ Il est recommandé de revenir sur cette partie pour maîtriser toutes les nuance
 
 <mark class=pink>Règle</mark>
 >Pour changer un verbe en -ru de la forme dictionnaire à la forme passé,
->il suffit de retirer le「る」et ajouter「た」:
+>il suffit de retirer le 「る」 et ajouter 「た」 :
 >出る ${\color{crimson}\to}$ 出た (sortir - (je) suis sorti)
 >{捨|す}てる ${\color{crimson}\to}$ 捨てた (jeter - avoir jeté)
 
@@ -454,7 +454,7 @@ Il est recommandé de revenir sur cette partie pour maîtriser toutes les nuance
 #### Passé pour les verbes en -u 
 
 On peut mettre les verbes en -u dans 4 catégories quand on les conjugue au passé selon leur terminaison.
-Le verbe 「行く」est une exception au passé
+Le verbe  「行く」 est une exception au passé
 
 <span style="color:red">＊</span> -> Exceptions qui s'appliquent à la conjugaison au passé
 
@@ -488,11 +488,11 @@ Exceptions
 ---
 #### Passé négatif pour tous les verbes
 
-La règle est la même pour les verbes qui terminent en「ない」.
+La règle est la même pour les verbes qui terminent en 「ない」 .
 
 <mark class=pink>Règle</mark>
 ><big>Pour conjuguer les verbes au passé négatif</big>
->Il faut conjuguer le verbe au négatif, remplacer le「い」du「ない」par「かった」
+>Il faut conjuguer le verbe au négatif, remplacer le 「い」 du 「ない」 par 「かった」 
 ><mark class=purple>Exemple</mark>
 >$\space\space\space\space\space$ 1. 捨て<u>る</u> ${\color{crimson}\to}$ 捨てな<u><s>い</s></u> ${\color{crimson}\to}$ 捨てな<u>かった</u>
 >$\space\space\space\space\space$ 2. 行<u>く</u> ${\color{crimson}\to}$ 行かな<s><u>い</u></s> ${\color{crimson}\to}$ 行かな<u>かった</u>
@@ -506,13 +506,13 @@ La règle est la même pour les verbes qui terminent en「ない」.
 ---
 ## 5 - Particules employées avec les verbes
 
-### a - Le「を」, particule d'objet direct
+### a - Le 「を」 , particule d'objet direct
 
 Cette particule est très explicite, car elle signifie que le mot (ou la clause) qui la précède est l'objet direct du verbe.
 C'est ce qui indique le COD en équivalent français, même si il est différent du COD que l'on connaît.
 
 <mark class=cyan>Note</mark>
-Le caractère 「を」est quasi-exclusivement utilisé pour l'emploi de cette particule, ce qui explique le faible usage de sa variante カタカナ 「ヲ」car les particules sont écrites en ひらがな.
+Le caractère  「を」 est quasi-exclusivement utilisé pour l'emploi de cette particule, ce qui explique le faible usage de sa variante カタカナ  「ヲ」 car les particules sont écrites en ひらがな.
 De plus, même si cette particule se prononce /wo/, en pratique sa prononciation se rapproche du /o/
 
 <mark class=purple>Exemple</mark>
@@ -526,7 +526,7 @@ De plus, même si cette particule se prononce /wo/, en pratique sa prononciation
 
 <mark class=cyan>Note</mark>
 Contrairement à l'object direct en français, des endroits peuvent être l'objet direct de verbes de mouvement,
-comme 「{歩|ある}く」et「{走|はし}る」(respectivement marcher et courir).
+comme  「{歩|ある}く」 et 「{走|はし}る」 (respectivement marcher et courir).
 Comme le verbe de mouvement est effectué <i>au lieu</i>, le concept d'objet direct est le même en Japonais.
 Cependant, cela donne à la traduction une signification légèrement différente dû au concept d'objet direct étant différent.
 
@@ -543,7 +543,7 @@ Cependant, cela donne à la traduction une signification légèrement différent
 
 ---
 <mark class=mint>Remarque</mark>
-Quand on utilise le verbe「する」avec un nom, la particule「を」est optionnelle et on peut traiter le「nom+する」comme un seul verbe.
+Quand on utilise le verbe 「する」 avec un nom, la particule 「を」 est optionnelle et on peut traiter le 「nom+する」 comme un seul verbe.
 
 <mark class=purple>Exemple</mark>
 {毎|まい}{日|にち}、{日|に}{本|ほん}{語|ご}を<u>勉強</u><small>(を)</small><u>する</u>。 ({勉|べん}{強|きょう})
@@ -552,10 +552,10 @@ Quand on utilise le verbe「する」avec un nom, la particule「を」est optio
 <small>Enregistré adresse mail.</small>
 
 ---
-### b - Le「に」, particule cible
+### b - Le 「に」 , particule cible
 
-La particule「に」peut spécifier la cible d'un verbe. C'est différent de la particule「を」car cette dernière indique que le verbe fait quelque chose <i><b>à</b></i> un objet direct. Tandis que le mot précédant「に」est quelque chose dont le verbe fait quelque chose <i><b>vers</b></i> ce même mot.
-Par exemple, la cible de n'importe quel verbe de mouvement est indiqué par la particule「に」.
+La particule 「に」 peut spécifier la cible d'un verbe. C'est différent de la particule 「を」 car cette dernière indique que le verbe fait quelque chose <i><b>à</b></i> un objet direct. Tandis que le mot précédant 「に」 est quelque chose dont le verbe fait quelque chose <i><b>vers</b></i> ce même mot.
+Par exemple, la cible de n'importe quel verbe de mouvement est indiqué par la particule 「に」 .
 
 <mark class=purple>Exemple</mark>
 ボブは日本<mark class=green>に</mark>行った。
@@ -566,8 +566,8 @@ Par exemple, la cible de n'importe quel verbe de mouvement est indiqué par la p
 <small>Venir à la pièce(ou chambre).</small>
 
 ---
-<mark class=cyan>Note</mark> La particule「に」cible "à" ou "vers" plutôt que "depuis". Si on veut exprimer le fait de venir depuis la pièce, on utilise la particule「から」qui signifie "depuis" ou "de"(dans le sens, provenir ***de***) .
-「から」est souvent de paire avec「まで」qui signifie "jusqu'à".
+<mark class=cyan>Note</mark> La particule 「に」 cible "à" ou "vers" plutôt que "depuis". Si on veut exprimer le fait de venir depuis la pièce, on utilise la particule 「から」 qui signifie "depuis" ou "de"(dans le sens, provenir ***de***) .
+ 「から」 est souvent de paire avec 「まで」 qui signifie "jusqu'à".
 
 <mark class=purple>Exemple</mark>
 アリスは、アメリカ<mark class=green>から</mark>きた。
@@ -590,14 +590,14 @@ Le temps est aussi une cible commune. Voici des exemples de cibles sans verbes d
 <small>Rencontré un bon ami.</small>
 ジムは{医|い}{者|しゃ}になる。
 <small>Jim va devenir un docteur.</small>
-先週<mark class=green>に</mark>図書館<mark class=green>に</mark>行った。
+先週<mark class=green>に</mark>{図|と}{書|しょ}{館|かん}<mark class=green>に</mark>行った。
 <small>Est allé à la bibliothèque la semaine dernière.</small>
 
-<mark class=cyan>Note</mark> : ne pas oublier「ある」pour la chaise et「いる」pour le chat.
+<mark class=cyan>Note</mark> : ne pas oublier 「ある」 pour la chaise et 「いる」 pour le chat.
 
 ---
 <mark class=mint>Remarque</mark>
-Bien que la particule「に」n'est pas obligatoire pour indiquer le temps, il y a une légère différence de sens entre utiliser la particule cible et ne rien utiliser du tout. Dans l'exemple suivant, la particule de cible met l'accent spécifique sur le moment où l'ami ira au Japon. Sans la particule il n'y a pas de mise en accent particulière.
+Bien que la particule 「に」 n'est pas obligatoire pour indiquer le temps, il y a une légère différence de sens entre utiliser la particule cible et ne rien utiliser du tout. Dans l'exemple suivant, la particule de cible met l'accent spécifique sur le moment où l'ami ira au Japon. Sans la particule il n'y a pas de mise en accent particulière.
 
 <mark class=purple>Exemple</mark>
 
@@ -607,17 +607,17 @@ Bien que la particule「に」n'est pas obligatoire pour indiquer le temps, il y
 <small>Ami ira au Japon l'année prochaine.</small>
 
 ---
-### c - Le「へ」, particule directionnelle 
+### c - Le 「へ」 , particule directionnelle 
 
-Tandis que「へ」est prononcé /he/, quand 「へ」est utilisé en particule, c'est toujours prononcé /e/ (え)
-La principale différence entre「に」et「へ」est que :
-- La particule「に」indique d'aller volontairement *à* une destination (physique ou abstraite) en tant que finalité.
-- La particule「へ」indique le fait d'aller *dans la direction* de la cible.
-De ce fait, la particule「へ」est uniquement utilisée avec des <u>verbes de mouvement</u>.
+Tandis que 「へ」 est prononcé /he/, quand  「へ」 est utilisé en particule, c'est toujours prononcé /e/ (え)
+La principale différence entre 「に」 et 「へ」 est que :
+- La particule 「に」 indique d'aller volontairement *à* une destination (physique ou abstraite) en tant que finalité.
+- La particule 「へ」 indique le fait d'aller *dans la direction* de la cible.
+De ce fait, la particule 「へ」 est uniquement utilisée avec des <u>verbes de mouvement</u>.
 Cela ne garantit pas que la cible est la destination finale destinée, seulement que l'un se dirige vers sa direction.
-En d'autres mots, la particule「に」indique la destination 
-alors que le「へ」est plus flou à propos de là où quelqu'un va en fin de compte.
-Par exemple, si on remplace「に」par「へ」dans les 3 premiers exemples de la section précédente, le sens changera légèrement.
+En d'autres mots, la particule 「に」 indique la destination 
+alors que le 「へ」 est plus flou à propos de là où quelqu'un va en fin de compte.
+Par exemple, si on remplace 「に」 par 「へ」 dans les 3 premiers exemples de la section précédente, le sens changera légèrement.
 
 <mark class=purple>Exemple</mark>
 ボブは日本<mark class=green>へ</mark>行った。
@@ -628,23 +628,23 @@ Par exemple, si on remplace「に」par「へ」dans les 3 premiers exemples de 
 <small>Arriver vers la salle.</small>
 
 ---
-<mark class=cyan>Note</mark> : On ne peut pas utiliser「へ」avec des <u>verbes</u> qui n'ont pas de direction physique
+<mark class=cyan>Note</mark> : On ne peut pas utiliser 「へ」 avec des <u>verbes</u> qui n'ont pas de direction physique
 Par exemple, l'exemple suivant est incorrect :
 - 医者<s>へ</s>なる。
-Cependant, cela ne veut pas dire que「へ」ne peut pas exprimer le fait de se diriger vers un concept abstrait.
+Cependant, cela ne veut pas dire que 「へ」 ne peut pas exprimer le fait de se diriger vers un concept abstrait.
 En effet, avec la signification directionnelle floue de cette particule, elle peut être utilisée pour exprimer le 
 fait de se diriger vers des objectifs futurs ou bien des attentes.
 - {勝|か}ち<mark class=green>へ</mark>{向|む}かう。
 <small>Aller vers la victoire.</small>
 
 ---
-### d - Le「で」, particule de contexte
+### d - Le 「で」 , particule de contexte
 
-La particule「で」nous permet de spécifier le contexte dans lequel l'action est effectuée.
+La particule 「で」 nous permet de spécifier le contexte dans lequel l'action est effectuée.
 Par exemple, si quelqu'un mange du poisson, où l'a t-il mangé ? (C.C.L.) 
 Si quelqu'un est allé à l'école, par quel moyen y est-t-il allé ? (C.C.M.)
 Avec quel ustensile va-t-on manger la soupe ? (C.C.M.)
-Toutes ces questions peuvent être répondues par「で」
+Toutes ces questions peuvent être répondues par 「で」 
 
 <mark class=purple>Exemple</mark>
 {映|えい}{画|が}{館|かん}<mark class=green>で</mark>みた。
@@ -655,18 +655,18 @@ Toutes ces questions peuvent être répondues par「で」
 <small>Manger le déjeuner au restaurant.</small>
 
 <mark class=mint>Remarque</mark>
-On peut traduire「で」par "par moyen de"
+On peut traduire 「で」 par "par moyen de"
 Comme ça la signification de la phrase est plus-ou-moins conservée.
 Par exemple la 1$^{ère}$ phrase se traduira par : "Vu par moyen de salle de cinéma"
 
 ---
 
-#### Utilisation de 「で」avec「何」
+#### Utilisation de  「で」 avec 「何」 
 
-Le mot pour "quoi" (何) est assez agaçant, car il est habituellement lu「なに」,
-Mais il est parfois lu en「なん」selon la façon dont il est utilisé. 
+Le mot pour "quoi" (何) est assez agaçant, car il est habituellement lu 「なに」 ,
+Mais il est parfois lu en 「なん」 selon la façon dont il est utilisé. 
 Et comme il est tout le temps écrit en kanji, on ne peut pas les distinguer.
-Une suggestion est d'utiliser「なに」jusqu'à ce que l'on vous corrige pour utiliser「なん」
+Une suggestion est d'utiliser 「なに」 jusqu'à ce que l'on vous corrige pour utiliser 「なん」 
 
 <mark class=purple>Exemple</mark>
 {何|なに}<mark class=green>で</mark>きた？
@@ -675,8 +675,8 @@ Une suggestion est d'utiliser「なに」jusqu'à ce que l'on vous corrige pour 
 <small>Venu en bus.</small>
 
 ---
-Voici la partie difficile, il y a un argot pour le mot "pourquoi" qui est beaucoup plus utilisé que le mot moins familier「どうして」ou bien le「なぜ」.
-Et il est également écrit「何で」mais lu en「なんで」c'est un mot complètement différent et n'a rien à voir avec la particule「で」
+Voici la partie difficile, il y a un argot pour le mot "pourquoi" qui est beaucoup plus utilisé que le mot moins familier 「どうして」 ou bien le 「なぜ」 .
+Et il est également écrit 「何で」 mais lu en 「なんで」 c'est un mot complètement différent et n'a rien à voir avec la particule 「で」 
 
 <mark class=purple>Exemple</mark>
 {何|なん}できた？
@@ -684,9 +684,9 @@ Et il est également écrit「何で」mais lu en「なんで」c'est un mot com
 {暇|ひま}だから。
 <small>Car je suis disponible.</small>
 
-<mark class=cyan>Note</mark> Le「から」ici signifie quelque chose d'autre que celui que l'on vient de voir.
+<mark class=cyan>Note</mark> Le 「から」 ici signifie quelque chose d'autre que celui que l'on vient de voir.
 
-Donc, on vient de voir comment deux phrases qui s'écrivent pareil ont une prononciation et signification complètement différentes. Cependant, le 2$^{e}$「何で」que l'on vient de voir est utilisé 95% du temps.
+Donc, on vient de voir comment deux phrases qui s'écrivent pareil ont une prononciation et signification complètement différentes. Cependant, le 2$^{e}$ 「何で」 que l'on vient de voir est utilisé 95% du temps.
 Et même lorsque ce n'est pas le cas, le contexte suffit pour distinguer ce cas.
 Dans cet exemple, les 2 réponses sont complètement différentes, ce qui permet de les distinguer.
 
@@ -694,7 +694,7 @@ Dans cet exemple, les 2 réponses sont complètement différentes, ce qui permet
 ### e - Quand le lieu est le thème de la phrase
 
 Il y a des fois où le lieu d'une action est également le thème de la phrase.
-On peut attacher une particule de thème (「は」、「も」) aux 3 particules qui indiquent le lieu (「に」、「へ」、「で」) quand le lieu est le thème.
+On peut attacher une particule de thème ( 「は」 、 「も」 ) aux 3 particules qui indiquent le lieu ( 「に」 、 「へ」 、 「で」 ) quand le lieu est le thème.
 Les exemples ci-dessous ont un lieu en thème.
 
 <mark class=purple>Exemple</mark>
@@ -709,7 +709,7 @@ Les exemples ci-dessous ont un lieu en thème.
 
 Dans cet exemple, Bob amène un nouveau thème (bibliothèque), et donc le lieu devient le thème de la phrase.
 <mark class=cyan>Note</mark> La 2$^{e}$ phrase de Bob est en réalité une abréviation de la phrase
-「図書館には行った？」que l'on peut déduire du contexte.
+ 「図書館には行った？」 que l'on peut déduire du contexte.
 
 <mark class=purple>Exemple</mark>
 ボブ：どこで食べる？
@@ -725,7 +725,7 @@ Dans ce cas là, le lieu (restaurant) est en train d'être suggéré, donc il de
 ---
 ### f - Quand l'objet direct est le thème de la phrase
 
-La particule d'objet direct est différente que les particules en rapport au lieu, elle diffère en ce sens que l'on ne peut pas utiliser d'autres particules en même temps. Par exemple, si l'on se tient à la section précédente, on aurait pu déduire que l'on utilise「をは」pour exprimer le fait qu'un objet direct est également un thème, mais ce n'est pas le cas. Un thème peut être un objet direct sans la particule「を」. Précisément, mettre la particule「を」rendra la phrase fausse.
+La particule d'objet direct est différente que les particules en rapport au lieu, elle diffère en ce sens que l'on ne peut pas utiliser d'autres particules en même temps. Par exemple, si l'on se tient à la section précédente, on aurait pu déduire que l'on utilise 「をは」 pour exprimer le fait qu'un objet direct est également un thème, mais ce n'est pas le cas. Un thème peut être un objet direct sans la particule 「を」 . Précisément, mettre la particule 「を」 rendra la phrase fausse.
 
 <small><mark class=cyan>Note</mark> : L'exemple suivant va utiliser la 1e personne du singulier, mais n'importe quelle personne fonctionne en traduction dû au manque de contexte.</small>
 <mark class=purple>Exemple</mark>
@@ -748,7 +748,7 @@ En Français, cela peut parfois être exprimé avec le même verbe
 
 <mark class=purple>Exemple</mark>
 "J'ai fait tomber la balle."  vs.  "La balle est tombée."
-devient en Japonais :「ボールを{落|お}とした」 vs. 「ボールが{落|お}ちた」
+devient en Japonais : 「ボールを{落|お}とした」  vs.  「ボールが{落|お}ちた」 
 
 ---
 Parfois, cela est exprimé avec deux verbes distincts
@@ -812,13 +812,13 @@ Il se peut qu'il soit complexe de saisir la nuance initialement, pour distinguer
 Les phrases suivantes sont grammaticalement incorrectes
 
 電気<mark class=red><s>を</s></mark>ついた。
-(「を」doit être remplacé par「が」ou「は」)
+( 「を」 doit être remplacé par 「が」 ou 「は」 )
 電気<mark class=red><s>を</s></mark>消える。
-(「を」doit être remplacé par「が」ou「は」)
+( 「を」 doit être remplacé par 「が」 ou 「は」 )
 どうして窓<mark class=red><s>を</s></mark>開いた。
-(「を」doit être remplacé par「が」ou「は」)
+( 「を」 doit être remplacé par 「が」 ou 「は」 )
 
-La seule fois où on peut utiliser「を」pour des verbes intransitifs est quand le lieu est l'objet direct d'un verbe de mouvement comme cela a été brièvement décrit dans la section précédente 
+La seule fois où on peut utiliser 「を」 pour des verbes intransitifs est quand le lieu est l'objet direct d'un verbe de mouvement comme cela a été brièvement décrit dans la section précédente 
 
 <mark class=purple>Exemple</mark>
 部屋<mark class=green>を</mark>出た。
@@ -837,11 +837,11 @@ Cette simple prise de conscience va nous permettre de modifier un nom avec n'imp
 ---
 ### b - Utiliser les clauses d'état-d'être comme des adjectifs
 
-Les conjugaisons verbales du négatif, du passé, et du passé négatif peuvent être employées <u>tout comme les adjectifs</u> pour modifier les noms. Cependant, on ne peut **pas** faire ceci avec l'état-d'être simple au présent en utilisant「だ」. (Oui, c'est agaçant.) La langue a des particules prévues à cet usage, qui seront abordées dans la prochaine partie.
+Les conjugaisons verbales du négatif, du passé, et du passé négatif peuvent être employées <u>tout comme les adjectifs</u> pour modifier les noms. Cependant, on ne peut **pas** faire ceci avec l'état-d'être simple au présent en utilisant 「だ」 . (Oui, c'est agaçant.) La langue a des particules prévues à cet usage, qui seront abordées dans la prochaine partie.
 
 <mark class=pink>Règle</mark>
- >On ne peut pas utiliser「だ」pour directement modifier un nom par un nom
- >comme on peut le faire avec「じゃない」、「だった」、et「じゃなかった」
+ >On ne peut pas utiliser 「だ」 pour directement modifier un nom par un nom
+ >comme on peut le faire avec 「じゃない」 、 「だった」 、et 「じゃなかった」 
 
 ---
 <mark class=mint>Remarque</mark>
@@ -849,10 +849,10 @@ Cependant, on peut avoir une chaîne de noms placés ensemble quand ils ne sont 
 
 Par exemple, dans la phrase "Centre d'Education International.", on peut voir que c'est juste une chaîne de noms sans implication grammaticale entre eux. Ce n'est pas un "Centre d'Education <u>qui est</u> International." ou bien un "Centre <u>pour</u> l'Education Internationale." etc... mais c'est juste "Centre d'Education International."
 
-En Japonais, on peut l'exprimer simplement en「{国|こく}{際|さい}{教|きょう}{育|いく}サンタ」(ou「センター」).
+En Japonais, on peut l'exprimer simplement en 「{国|こく}{際|さい}{教|きょう}{育|いく}サンタ」 (ou 「センター」 ).
 Vous allez voir cet enchaînement de noms dans beaucoup de combinaisons. Parfois une certaine combinaison est tellement régulièrement utilisée qu'elle est presque devenue un nouveau mot et est listé dans une définition séparée de certains dictionnaires.
 
-Voici certains exemples : 「登場人物」、「立入禁止」、ou 「通勤手当」.
+Voici certains exemples :  「登場人物」 、 「立入禁止」 、ou  「通勤手当」 .
 
 <mark class=cyan>Note</mark> Si vous avez des difficultés pour séparer les mots, [cet outil](http://wwwjdic.biz/cgi-bin/wwwjdic?9T) pourra vous servir (Regardez sur plusieurs dictionnaires pour un résultat idéal, les meilleurs étant Japanese Wordnet, Jp-Fr dictionnaire, ou bien EDICT)
 
@@ -921,7 +921,7 @@ Rappelez vous juste des règles suivantes
 
 <mark class=pink>Règle</mark>
  >- Une phrase complète nécessite un verbe qui se situe à la fin. Ce qui inclut aussi l'état d'être sous-entendu
- >- Des phrases complètes (clauses relatives) peuvent être utilisées pour modifier des noms afin de créer des phrases avec des clauses relatives imbriquées sauf dans le cas de 「だ」
+ >- Des phrases complètes (clauses relatives) peuvent être utilisées pour modifier des noms afin de créer des phrases avec des clauses relatives imbriquées sauf dans le cas de  「だ」 
  
  <mark class=purple>Exemple</mark>
 - 食べた。
@@ -936,16 +936,16 @@ Rappelez vous juste des règles suivantes
 ### Les 3 dernières particules essentielles
 
 Nous avons déjà vu pas mal de constructions puissantes qui nous permettent d'exprimer presque tout ce que l'on souhaite. 
-On va voir que la particule「の」va nous donner encore de pouvoir en nous laissant définir un nom abstrait générique. 
+On va voir que la particule 「の」 va nous donner encore de pouvoir en nous laissant définir un nom abstrait générique. 
 On va également voir comment modifier des noms directement avec des noms. 
 Les trois particules que l'on va étudier permettent de grouper les noms de plusieurs manières.
 
 <mark class=cyan>Note</mark> 
 Ceci va être la dernière partie qui va spécifiquement se focaliser sur les particules, mais cela *ne signifie pas* qu'il n'y a pas d'autres particules à apprendre. Nous apprendrons bien d'autres particules au fur et à mesure, mais il se peut qu'elles ne soient pas qualifiées comme tel. Tant que vous savez ce qu'elles veulent dire et comment les utiliser, cela importe peu de savoir si ce sont des particules ou non.
 
-### a - Le「と」, particule inclusive
+### a - Le 「と」 , particule inclusive
 
-La particule「と」est similaire à la particule「も」dans le sens qu'elle contient le sens d'inclusion. 
+La particule 「と」 est similaire à la particule 「も」 dans le sens qu'elle contient le sens d'inclusion. 
 Elle peut combiner deux mots ou plus ensemble pour signifier "et".
 
 <mark class=purple>Exemple</mark>
@@ -955,7 +955,7 @@ Elle peut combiner deux mots ou plus ensemble pour signifier "et".
 <small>Acheté livre, magasine et carte postale.</small>
 
 ---
-Une autre utilisation similaire de la particule「と」est de montrer qu'une action a été effectuée ensemble avec quelqu'un ou quelque chose d'autre.
+Une autre utilisation similaire de la particule 「と」 est de montrer qu'une action a été effectuée ensemble avec quelqu'un ou quelque chose d'autre.
 
 <mark class=purple>Exemple</mark>
 友達<mark class=green>と</mark>話した。
@@ -964,9 +964,9 @@ Une autre utilisation similaire de la particule「と」est de montrer qu'une ac
 <small>Rencontré avec professeur.</small>
 
 ---
-### b - Le「や」et「とか」, particules de listes vagues
+### b - Le 「や」 et 「とか」 , particules de listes vagues
 
-La particule「や」, tout comme la particule「と」, est utilisée pour lister un ou plusieurs noms sauf qu'elle est bien plus vague que la particule「と」.
+La particule 「や」 , tout comme la particule 「と」 , est utilisée pour lister un ou plusieurs noms sauf qu'elle est bien plus vague que la particule 「と」 .
 Cela signifie qu'il peut y avoir d'autres éléments qui ne figurent pas dans la liste et que tous les éléments de la liste ne s'appliquent pas nécessairement.
 On peut se représenter ce type de listes en français par une liste du type "et/ou etc."
 
@@ -978,7 +978,7 @@ On peut se représenter ce type de listes en français par une liste du type "et
 <small>Acheter des (choses comme) des chausses, shirt, etc...</small>
 
 ---
-「とか」a également la même signification que「や」mais est une expression légèrement plus familière.
+ 「とか」 a également la même signification que 「や」 mais est une expression légèrement plus familière.
 
 <mark class=purple>Exemple</mark>
 飲み物<mark class=green>とか</mark>カップ<mark class=green>とか</mark>ナプキンは、いらない？
@@ -989,10 +989,10 @@ On peut se représenter ce type de listes en français par une liste du type "et
 
 ---
 
-### c - La particule「の」
+### c - La particule 「の」 
 
-La particule「の」a beaucoup d'utilisations et est une particule très puissante.
-Elle est introduite ici car elle peut connecter un ou plusieurs noms comme「と」et「や」.
+La particule 「の」 a beaucoup d'utilisations et est une particule très puissante.
+Elle est introduite ici car elle peut connecter un ou plusieurs noms comme 「と」 et 「や」 .
 
 Regardons quelques exemples
 
@@ -1006,7 +1006,7 @@ La première phrase veut essentiellement dire "Le livre de Bob".
 La deuxième signifie "Le Bob du livre", ce qui est probablement une erreur.
 
 ---
-La particule「の」n'implique pas nécessairement la possession.
+La particule 「の」 n'implique pas nécessairement la possession.
 
 <mark class=purple>Exemple</mark>
 ボブは、アメリカ<mark class=green>の</mark>{大|だい}{学|がく}<mark class=green>の</mark>学生だ。
@@ -1018,7 +1018,7 @@ En français courant, ceci se traduirait vers "<small>Bob est un étudiant d'une
 L'ordre de modification est à l'envers par rapport au français, donc Bob est un étudiant d'une université qui est Américaine.
 
 <mark class=cyan>Note</mark>
-「学生の大学のアメリカ」signifie "Etats-Unis de l'Université de étudiant" qui est probablement une erreur et n'a pas de réelle signification.
+ 「学生の大学のアメリカ」 signifie "Etats-Unis de l'Université de étudiant" qui est probablement une erreur et n'a pas de réelle signification.
 
 ---
 On peut omettre le nom qui est modifié si le contexte indique clairement ce qui est omis.
@@ -1040,12 +1040,12 @@ pour devenir
 <small>C'est celle de Bob.</small>
 
 <mark class=mint>Remarque</mark>
-「その」est une abréviation de「それ＋の」donc elle modifie directement le nom car la particule「の」est intrinsèquement attachée.
-D'autres mots du types incluent「この」de「これの」et「あの」de「あれの」
+ 「その」 est une abréviation de 「それ＋の」 donc elle modifie directement le nom car la particule 「の」 est intrinsèquement attachée.
+D'autres mots du types incluent 「この」 de 「これの」 et 「あの」 de 「あれの」 
 
 ---
-La particule「の」dans cet usage spécifique remplace le nom et prend le rôle du nom. 
-On peut essentiellement considérer les verbes et les adjectifs en y ajoutant「の」.
+La particule 「の」 dans cet usage spécifique remplace le nom et prend le rôle du nom. 
+On peut essentiellement considérer les verbes et les adjectifs en y ajoutant 「の」 .
 La particule devient un nom quelconque, que l'on peut traiter comme un nom quelconque.
 
 <mark class=purple>Exemple</mark>
@@ -1056,8 +1056,8 @@ La particule devient un nom quelconque, que l'on peut traiter comme un nom quelc
 
 ---
 Maintenant que l'on peut utiliser l'objet direct, le thème et la particule identificatrice avec des verbes et des adjectifs. 
-On ne peut pas nécessairement avoir besoin d'utiliser la particule「の」ici. 
-On peut simplement utiliser「{物|もの}」qui est un objet générique ou「こと」pour un événement générique.
+On ne peut pas nécessairement avoir besoin d'utiliser la particule 「の」 ici. 
+On peut simplement utiliser 「{物|もの}」 qui est un objet générique ou 「こと」 pour un événement générique.
 
 <mark class=purple>Exemple</mark>
 白い<mark class=green>物</mark>は、かわいい。
@@ -1066,8 +1066,8 @@ On peut simplement utiliser「{物|もの}」qui est un objet générique ou「�
 <small>J'ai oublié (le fait) d'aller en cours</small>
 
 ---
-Cependant, la particule「の」est très utile dans le fait que l'on n'a pas besoin de spécifier un nom particulier.
-Dans les prochains exemples, la particule「の」ne remplace pas de noms spécifiques, elle nous permet seulement de modifier les clauses verbales et adjectivales comme des clauses nominales. 
+Cependant, la particule 「の」 est très utile dans le fait que l'on n'a pas besoin de spécifier un nom particulier.
+Dans les prochains exemples, la particule 「の」 ne remplace pas de noms spécifiques, elle nous permet seulement de modifier les clauses verbales et adjectivales comme des clauses nominales. 
 
 <mark class=purple>Exemple</mark>
 Les clauses relatives seront marquées.
@@ -1077,7 +1077,7 @@ Les clauses relatives seront marquées.
 <small>Le fait de manger la même chose tous les jours n'est pas intéressant.</small> 
 
 ---
-Même en substituant「の」par un nom, il est toujours nécessaire de placer le「な」lorsqu'un adjectif en -na est utilisé.
+Même en substituant 「の」 par un nom, il est toujours nécessaire de placer le 「な」 lorsqu'un adjectif en -na est utilisé.
 
 <mark class=purple>Exemple</mark>
 静か<mark class=green>な</mark>部屋が、アリスの部屋だ。
@@ -1091,20 +1091,20 @@ devient :
 ---
 
 <mark class=red><big><big>⚠</big></big></mark>
-On pourrait croire qu'il est possible de remplacer n'importe quel nom par「の」mais ce n'est pas le cas.
+On pourrait croire qu'il est possible de remplacer n'importe quel nom par 「の」 mais ce n'est pas le cas.
 Il est important de se rendre compte que la phrase <b>doit</b> être autour de la clause et pas le nom qui vient d'être remplacé.
 
-Par exemple, dans la partie précédente on avait la phrase「学生じゃない人は、学校に行かない」. 
-On pourrait croire que l'on peut juste remplacer「人」par「の」pour produire「学生じゃない<mark class=grey>の</mark>は、学校に行かない」.
+Par exemple, dans la partie précédente on avait la phrase 「学生じゃない人は、学校に行かない」 . 
+On pourrait croire que l'on peut juste remplacer 「人」 par 「の」 pour produire 「学生じゃない<mark class=grey>の</mark>は、学校に行かない」 .
 Mais en réalité, cette phrase n'a aucun sens car la phrase est désormais autour de la clause "n'est pas étudiant".
 La phrase devient : "Le fait de ne pas être étudiant ne va pas à l'école" qui est du vrai charabia, car ne pas être étudiant est un état, et cela n'a aucun sens pour un état d'aller où que ce soit, encore moins à l'école.
 
 ---
-### d - La particule「の」explicative
+### d - La particule 「の」 explicative
 
-La particule「の」attachée à la fin de la dernière clause d'une phrase peut aussi donner un <u>ton explicatif</u> à la phrase.
+La particule 「の」 attachée à la fin de la dernière clause d'une phrase peut aussi donner un <u>ton explicatif</u> à la phrase.
 Par exemple, si quelqu'un vous demandait si vous avez le temps, vous pourriez répondre, "Le fait est que, je suis occupé.e maintenant". 
-Le nom générique abstrait "le fait est..." peut être exprimé par la particule「の」. 
+Le nom générique abstrait "le fait est..." peut être exprimé par la particule 「の」 . 
 Cette phrase contient le sens explicatif du motif de quelque chose.
 
 <mark class=purple>Exemple</mark>
@@ -1112,18 +1112,18 @@ La phrase se formulerait ainsi :
 {今|いま}は{忙|いそが}しい<mark class=green>の</mark>。
 <small>Le fait est que (je suis) occupé.e en ce moment.</small>
 
-Ceci porte un ton doux et féminin. En effet, <u>les hommes adultes vont ajouter quasiment tout le temps un「だ」déclaratif</u>, à moins qu'ils souhaitent donner l'impression d'être mignons pour une raison ou une autre.
+Ceci porte un ton doux et féminin. En effet, <u>les hommes adultes vont ajouter quasiment tout le temps un 「だ」 déclaratif</u>, à moins qu'ils souhaitent donner l'impression d'être mignons pour une raison ou une autre.
 
 今は忙しい<mark class=green>のだ</mark>。
 <small>Le fait est que (je suis) occupé.e en ce moment.</small>
 
-Cependant, vu que le「だ」déclaratif ne peut pas être utilisé dans une question, le même「の」dans les questions ne porte aucun ton féminin, et est utilisé par tout le monde.
+Cependant, vu que le 「だ」 déclaratif ne peut pas être utilisé dans une question, le même 「の」 dans les questions ne porte aucun ton féminin, et est utilisé par tout le monde.
 
 今は忙しい<mark class=green>の</mark>？
 <small>Le fait est que (tu es) occupé.e en ce moment ?</small>
 
 ---
-Pour exprimer l'état-d'être quand la particule「の」est utilisée pour véhiculer ce ton explicatif, <u>on doit ajouter「な」</u> pour le distinguer du「の」qui signifie simplement "de".
+Pour exprimer l'état-d'être quand la particule 「の」 est utilisée pour véhiculer ce ton explicatif, <u>on doit ajouter 「な」 </u> pour le distinguer du 「の」 qui signifie simplement "de".
 
 <mark class=purple>Exemple</mark>
 ジムのだ。
@@ -1136,7 +1136,7 @@ Hormis ce cas, tout reste comme précédemment.
 ---
 
 <mark class=mint>Remarque</mark>
-En réalité, même si ce ton explicatif est utilisé tout le temps,「のだ」est souvent remplacé par「んだ」dû au fait que「んだ」est plus simple à prononcer que「のだ」. 
+En réalité, même si ce ton explicatif est utilisé tout le temps, 「のだ」 est souvent remplacé par 「んだ」 dû au fait que 「んだ」 est plus simple à prononcer que 「のだ」 . 
 Cette grammaire peut sembler avoir de multiples significations, car elle peut non seulement être utilisée avec toutes les formes d'adjectifs, noms ou verbes, mais elle peut <b>aussi</b> elle même être conjuguée comme l'état-d'être.
 Un tableau de conjugaison illustrera ce propos.
 
@@ -1156,15 +1156,17 @@ Un tableau de conjugaison illustrera ce propos.
 | Passé         | 学生<mark class=green>なんだった</mark>    | 飲む<mark class=green>んだった</mark>    |
 | Passé-négatif | 学生<mark class=green>なんじゃなかった</mark> | 飲む<mark class=green>んじゃなかった</mark> |
 
-Les Japonais n'emploient quasiment jamais le passé et passé négatif pour les noms et adj en -na dans le 2$^{e}$ tableau (surtout avec「の」) mais elles sont présentées pour compléter le tableau.
+Les Japonais n'emploient <u>quasiment jamais</u> le passé et passé négatif pour les noms et adj en -na dans le 2$^{e}$ tableau (surtout avec 「の」 ) mais elles sont présentées pour compléter le tableau.
 
-La différence cruciale entre utiliser le「の」explicatif et ne rien dire du tout est que l'on dit au lecteur/ à la personne qui nous écoute, "Regarde, voici la raison" contre simplement transmettre une nouvelle information.
-Par exemple si quelqu'un vous demande "êtes vous occupés en ce moment ?", vous pouvez simplement répondre「今は忙しい」.
+---
+La différence cruciale entre utiliser le 「の」 explicatif et ne rien dire du tout est que l'on dit au lecteur/ à la personne qui nous écoute, "Regarde, voici la raison" contre simplement transmettre une nouvelle information.
+Par exemple si quelqu'un vous demande "êtes vous occupés en ce moment ?", vous pouvez simplement répondre 「今は忙しい」 .
 
-Cependant, si quelqu'un vous demande "Pourquoi tu ne peux pas me parler ?", comme vous avez évidemment des explications à fournir, vous pouvez répondre「今は忙しいの」ou「今は忙しいんだ」
+Cependant, si quelqu'un vous demande "Pourquoi tu ne peux pas me parler ?", comme vous avez évidemment des explications à fournir, vous pouvez répondre 「今は忙しいの」 ou 「今は忙しいんだ」 
 Cette grammaire est essentielle pour trouver des explications dans les questions.
-Par exemple, si on veut demander "Eh, n'est il pas tard ?", on ne peut pas juste demander「{遅|おそ}くない？」car cela signifie, "Il n'est pas tard ?". Il faut indiquer que l'on cherche des explications sous la forme de「遅いんじゃない？」.
+Par exemple, si on veut demander "Eh, n'est il pas tard ?", on ne peut pas juste demander 「{遅|おそ}くない？」 car cela signifie, "Il n'est pas tard ?". Il faut indiquer que l'on cherche des explications sous la forme de 「遅いんじゃない？」 .
 
+---
 Voyons des exemples de ces types de situations où cette grammaire est utilisée. 
 Les exemples seront accompagnés d'une traduction littérale afin de montrer plus clairement comment le sens reste le même et se transpose dans des phrases qui, en français courant, seraient de nature très différente.
 Lorsque nécessaire, une seconde traduction sera présente pour donner le sens français aux phrases
@@ -1196,4 +1198,120 @@ Ici le "eh bien" est plutôt du registre familier en français, alors qu'en Japo
 ボブ：ううん、先生が買う<mark class=green>んだ</mark>。
 <small>Bob : Non, <u>c'est ce</u> prof qui est celui qui va l'acheter</small>
 <small>Traduction plus compréhensible : <br>Bob : Non, c'est ce prof qui va l'acheter</small>
+
+アリス：{朝|ちょう}{食|しょく}を食べる<mark class=green>んじゃなかった</mark>。
+<small>Alice : <u>Le fait est que</u> le petit déjeuner n'était pas à manger.</small>
+ボブ：どうして
+<small>Bob : Pourquoi/Comment ça se fait ? </small>
+
+C'est pas grave si vous n'avez pas compris, il y aura de multiples exemples qui illustreront le propos. De plus, je recommande d'oublier les phrases en français car il y a des négatifs doubles ou triples qui sont complètement normaux en japonais.
+
+---
+## 9 - Adverbes et particules de fin de phrase (gobi)
+
+### a - Propriétés des adverbes
+
+En Japonais, modifier des adjectifs en adverbes est très simple et droit au but. 
+De plus, comme le système de particules permet aux phrases d'avoir un ordre flexible, les adverbes peuvent être placés n'importe où dans la clause où il s'applique tant qu'il arrive <u>avant</u> le verbe auquel il réfère. 
+Comme d'habitude, il y a 2 règles séparées : l'un pour les adj en -i, l'autre pour les adjectifs en -na
+
+<mark class=pink>Règle</mark> <big>Changer un adjectif en adverbe</big>
+ >- Adjectifs en -i : substituer le 「い」 par 「く」 
+ >	<mark class=purple>Exemple</mark> {早|はや}<mark class=green>い</mark> $\to$ 早<mark class=green>く</mark> (Rapide -> Rapidement)
+ >- Adjectifs en -na : Attacher la particule cible 「に」 
+ >	<mark class=purple>Exemple</mark> きれい $\to$ きれい<mark class=green>に</mark>
+
+---
+ボブは朝食を<mark class=green>早く</mark>食べた。
+<small>Bob a mangé son petit déjeuner rapidement</small>
+
+L'adverbe 「はやく」 est légèrement différent du français 'rapide', car il signifie être rapide en vitesse *ou* en temps. 
+En d'autres mots, Bob a peut être mangé son petit déjeuner tôt ou bien rapidement selon le contexte. 
+Dans des phrases du type 「早く走った」 , il est plutôt évident que cela signifie rapide et non tôt (bien sûr ceci dépend aussi du contexte)
+
+アリスは{自|じ}{分|ぶん}の部屋を<mark class=green>きれいに</mark>した。
+<small>Alice a fait sa propre chambre vers belle.(trad. littérale)</small> 
+
+La traduction littérale permet réellement de comprendre pourquoi la particule de cible est utilisée. 
+Certains contestent le fait d'appeler ceci un adverbe mais c'est pratique pour nous de le faire pour les groupements entre adj en -i et adj en -na.
+En le voyant comme un adverbe, on peut interpréter la phrase en : "Alice a fait sa chambre joliment." ou bien moins littéralement "Alice a nettoyé/rangé sa chambre".
+Même si  「きれい」 signifie beau, on peut le voir en "Alice a embelli sa propre chambre"
+
+---
+<mark class=cyan>Note</mark> Pas tous les adverbes sont dérivés d'adjectifs. Some mots comme 「{全|ぜん}{然|ぜん}」 ("tout le temps" mais utilisé avec du négatif, donc signifiera "jamais" la plupart du temps) et 「たくさん」 (beaucoup) sont des adverbes eux mêmes sans conjugaison. 
+Ces mots peuvent être utilisés sans particules comme des adverbes classiques.
+
+映画を<mark class=green>たくさん</mark>見た。
+<small>Vu <u>beaucoup</u> de films.</small>
+{最|さい}{近|きん}、<mark class=green>全然</mark>食べない。
+<small>Ces derniers temps, je ne mange <u>pas du tout</u>.</small>
+
+<mark class=purple>Exemple</mark>
+ボブの{声|こえ}は、<mark class=green>結構</mark>{大|おお}きい。({結|けっ}{構|こう})
+<small>La voix de Bob est <u>plutôt</u> forte(litt. : grande).</small>
+この町は、最近<mark class=green>大きく</mark>{変|か}わった。
+<small>Cette ville a <u>beaucoup</u> changé récemment.</small>
+図書館の{中|なか}では、<mark class=green>静かに</mark>する。
+<small>Dans cette bibliothèque, on fait les choses silencieusement</small>.
+
+---
+### b - Particules de fin de phrase
+
+Les particules de fin de phrase sont des particules qui viennent en fin de phrase (wow) afin de changer le ton ou ressenti d'une phrase.
+Dans cette section, il y a aura les deux particules de fin de phrase les plus communes.
+
+---
+#### Le 「ね」 de fin de phrase
+
+Les gens ajoutent 「ね」 à la fin de leur phrase lorsqu'ils cherchent (et s'attendent à) l'accord avec ce qu'ils disent. 
+C'est l'équivalent du "n'est ce pas ?" ou "hein ?" en français
+
+<mark class=purple>Exemple</mark>
+ボブ：うう天気だ<mark class=green>ね</mark>。
+<small>Bob : Il fait beau hein ?<br>Litt : Bonne météo hein ?</small>
+アリス：そう<mark class=green>ね</mark>。
+<small>Alice : Oui n'est-ce pas ? (question rhétorique)</small>
+
+La traduction littérale de 「そうね」 est quelque chose du style "C'est bien vrai". Les hommes disent en général 「そうだね」 .
+
+<mark class=purple>Exemple</mark>
+アリス：おもしろい映画だった<mark class=green>ね</mark>。
+<small>Alice : C'était un film intéressant, n'est ce pas ?</small>
+ボブ：え？全然おもしろくなかった。
+<small>Bob : Hein ? Non c'était pas intéressant du tout.</small>
+
+Comme Alice s'attend à s'accorder avec Bob que le film était intéressant, Bob était surpris car il n'a pas trouvé le film intéressant du tout. ( 「え」 est un son de surprise et confusion)
+
+---
+#### Le 「よ」 de fin de phrase
+
+Quand 「よ」 est attaché à la fin d'une phrase, cela signifie que le locuteur informe l'auditeur de quelque chose de nouveau. En français, on peut exprimer cela par un "Tu sais..." comme la phrase "Tu sais, je suis en réalité un génie"
+
+<mark class=purple>Exemple</mark>
+アリス：{時|じ}{間|かん}がかい<mark class=green>よ</mark>。
+<small>Alice : <u>Tu sais,</u> il n'y a pas de temps.</small>
+ボブ：{大|だい}{丈|じょう}{夫|ぶ}だ<mark class=green>よ</mark>。
+<small>Bob : C'est pas grave <u>tu sais</u>.</small>
+
+
+アリス：今日はいい天気だね。
+<small>Alice : Beau temps aujourd'hui non ?</small>
+ボブ：うん。でも、明日雨が降る<mark class=green>よ</mark>。
+<small>Bob : Ouais. Mais demain il va pleuvoir, <u>tu sais</u>.</small>
+
+---
+#### Combinaison des deux pour avoir　「よね」
+
+On peut également combiner les deux pour créer　「よね」. 
+C'est utilisé lorsqu'on l'on souhaite informer l'auditeur de quelque chose de nouveau, tout en cherchant un accord en même temps. 
+Lorsqu'on combine les deux, l'ordre doit toujours être　「よね」 et pas l'inverse.
+
+<mark class=purple>Exemple</mark>
+アリス：ボブは、魚が好きなだ<mark class=green>よね</mark>。
+<small>Alice : <u>Tu sais</u>, tu aimes le poisson <u>n'est ce pas</u> ?</small>
+ボブ：そうだね。
+<small>Bob : Oui <u>n'est ce pas</u> ?</small>
+
+---
+# II - Grammaire Essentielle
 
