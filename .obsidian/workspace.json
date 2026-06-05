@@ -6,7 +6,7 @@
       {
         "id": "5aa8f974da297439",
         "type": "tabs",
-        "dimension": 55.08982035928144,
+        "dimension": 55.096153846153854,
         "children": [
           {
             "id": "d27e8810c6d99ca3",
@@ -28,7 +28,7 @@
       {
         "id": "21232f7f9414c80c",
         "type": "tabs",
-        "dimension": 44.91017964071856,
+        "dimension": 44.90384615384615,
         "children": [
           {
             "id": "0a11e24c54530284",
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#NAME",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,12 +95,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c044dfe50dd150bd",
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
+                "file": "Self Teachings/Japanese studies/j - 3 Grammaire.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of j - 3 Grammar"
+              "title": "Outline of j - 3 Grammaire"
             }
           },
           {
@@ -219,10 +219,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a11e24c54530284",
+  "active": "d27e8810c6d99ca3",
   "lastOpenFiles": [
-    "Self Teachings/Japanese studies/j - 3 Grammaire.md",
     "Self Teachings/Japanese studies/j - 3 Grammar.pdf",
+    "Self Teachings/Japanese studies/j - 3 Grammaire.md",
+    "Cours(MP2I)/Excalidraw/Drawing 2026-06-03 09.39.50.excalidraw.md",
+    "Cours(MP2I)/Excalidraw/Drawing 2026-01-06 11.22.43.excalidraw.md",
+    "Cours(MP2I)/Excalidraw/Sans titre.md",
+    "Cours(MP2I)/Anglais/Notes Film/Brexit.md",
+    "Cours(MP2I)/Anglais/Notes Film",
+    "Excalidraw/Drawing 2026-06-02 11.39.13.excalidraw.md",
+    "Pasted image.png",
     "Self Teachings/Rust/rust_book.pdf",
     "Cours(MP2I)/Informatique/TD TP/TP 28/TP28.pdf",
     "Cours(MP2I)/Physique/TP/TP 23.pdf",
@@ -239,7 +246,6 @@
     "Self Teachings/Vim/v - a Rappel keybinds.md",
     "Self Teachings/Rust/r - 3 Ownership.md",
     "Cours(MP2I)/Useful LaTeX/LaTeX.md",
-    "Self Teachings/Vim",
     "Rappel keybinds.md",
     "Cours(MP2I)/Informatique/TD TP/TP 27/TP27.md",
     "Cours(MP2I)/Physique/TP/TP 22.md",
@@ -252,11 +258,6 @@
     "Cours(MP2I)/Français/La connaissance de la vie.md",
     "Cours(MP2I)/Français/Le mur invisible.md",
     "jisho.org.md",
-    "Cours(MP2I)/Français/Correction du résumé.md",
-    "Calendar/20.05.2026.md",
-    "Calendar/19.05.2026.md",
-    "Calendar/2026-W20.md",
-    "Cours(MP2I)/Anglais/19 mai.md",
     "Random images/Database 1.png",
     "Random images/Database 2.png",
     "Random images/Pitch 22.png",
@@ -265,7 +266,6 @@
     "Random images/Pitch 20.png",
     "Random images/Pitch 19.png",
     "Random images/Pitch 18.png",
-    "Random images/Pitch 17.png",
     "Lettre de motivation/Sans titre.canvas",
     "Untitled.canvas",
     "Sans titre.canvas",

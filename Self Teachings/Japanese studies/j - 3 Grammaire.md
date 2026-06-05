@@ -100,7 +100,7 @@ utiliser la particule  「も」 permet d'inclure le mot juste avant dans le th�
 
 ボブ：アリスは{学生|がくせい}？
 
-アリス：うん、トムも学生。
+アリス：うん、トム<mark class=green>も</mark>学生。
 
 ---
 Tout comme en français, si on inclut quelque chose dans le thème, cela doit être cohérent avec la réponse.
@@ -178,7 +178,7 @@ Un adjectif est utilisé pour décrire un nom. Un adjectif peut directement modi
 <small>Belle personne.</small>
 
 ---
-><mark class=red><big><big>⚠</big></big></mark> "aimer" ({好|す}き) n'est pas un verbe en japonais, mais est un adjectif en -na . (Dans le sens, "bien aimer)
+><mark class=red><big><big>⚠</big></big></mark> "aimer" ({好|す}き) n'est pas un verbe en japonais, mais est un adjectif en -na . (Dans le sens, "bien aimer")
 
 <mark class=purple>Exemple</mark>
 ボブは{魚|さかな}が<mark class=green>好き</mark>だ。
@@ -221,7 +221,7 @@ On peut faire de la clause entière le thème.
 <mark class=purple>Exemple</mark>
 <mark class=green>魚が好きな人</mark>は、{肉|にく}も好きだ。
 <small>Personne qui aime le poisson, aime aussi la viande.</small>
-<mark class=green>魚が好きじゃない人</mark>は、{野|や}{菜|さい}がすきだ。
+<mark class=green>魚が好きじゃない人</mark>は、{野|や}{菜|さい}が好きだ。
 <small>Personne qui n'aime pas le poisson, aime les légumes.</small>
 
 ---
@@ -327,7 +327,7 @@ Nous allons voir les 3 principales catégories de verbes
 
 ---
 <mark class=cyan>Note</mark>
->Une phrase grammaticalement complète ne nécessite <u>uniquement</u> un verbe.(Etat-d'être en  「だ」 inclus)
+>Une phrase grammaticalement complète nécessite <u>uniquement</u> un verbe.(Etat-d'être en  「だ」 inclus)
 
 C'est pourquoi les phrases les plus communes en Japonais ne peuvent pas être traduites mot à mot.
 
@@ -1315,3 +1315,7 @@ Lorsqu'on combine les deux, l'ordre doit toujours être　「よね」 et pas l'
 ---
 # II - Grammaire Essentielle
 
+Nous avons appris les <u>fondations de base</u> de la langue japonaise. 
+Maintenant que nous avons une idée dans les grandes lignes de comment le japonais marche, nous pouvons améliorer nos connaissances en apprenant des <u>structures de grammaire spécifiques</u> à certaines situations. 
+Cette partie va aborder ce qui est considéré comme grammaire essentielle pour le japonais pratique de base. 
+Vous allez commencer à voir moins de traductions littérales afin de souligner la nouvelle grammaire, dont vous devrez déjà avoir une bonne compréhension
