@@ -1,11 +1,35 @@
+### Remarque préliminaire
+
+Ce guide est une traduction du guide anglais "A guide to Japanese Grammar" de Tae Kim. 
+**Ceci n'est pas la traduction officielle anglais** $\to$ **français**.
+Si j'ai décidé de traduire ce guide, c'est car je trouve que la traduction française est trop littérale, et perd tout l'intérêt qu'il avait en anglais (c'est à dire ne pas traduire littéralement justement).
+C'est donc pour retrouver cet aspect présent dans le guide anglais que j'ai décidé de traduire ce guide.
+Cependant, ce guide sera écrit d'une manière plus impersonnelle que la version anglaise. En effet, l'auteur d'origine est très personnel dans son guide et insère régulièrement de l'humour dans celui-ci. Je ne suis pas Tae Kim et je ne prétends pas l'être, cette traduction a pour objectif principal de transmettre la vision de l'enseignement.
+Si vous souhaitez profiter au mieux de ce guide, apprenez l'anglais et lisez le guide anglais.
+Ce guide ne prétend pas être une meilleure version de la traduction officielle, juste une version plus compréhensible pour moi, la personne qui traduit ce guide. J'espère tout de même que ce guide vous permettra de mieux apprendre la grammaire japonaise.
+
+<mark class=red><big><big>⚠</big></big></mark> Je ne suis pas une personne Japonaise et je n'ai pas un bon niveau de japonais (au moment où j'écrit le guide). J'apprends en même temps que je traduit, si vous trouvez une erreur, je vous prie de me contacter.
+
+<mark class=mint>Remarque</mark>
+Aucune IA générative n'a été utilisée afin de traduire ce guide, j'utilise mon cerveau pour traduire ou un outil de traduction du type DeepL ou Google traduction pour confirmer certaines formulations.
+
 ---
-aliases:
----
-# I - Bases de la grammaire
+# I - Introduction 
+
+## Le problème des manuels classiques
+
+Le problème des manuels classiques est qu'ils ont souvent les objectifs suivants :
+1. Ils veulent les lecteurs de pouvoir utiliser le japonais 
+2. Ils ne veulent pas effrayer les lecteurs avec les terrifiants caractères chinois
+3. Il veulent vous enseigner comment dire des phrases françaises ou anglaises en Japonais
+
+Par exemple dans un guide français pour apprendre l'espagnol, ces objectifs ne sont pas problématiques ou carrément non existants car l'espagnol est une langue romane, et qu'il partage des similitudes avec le français. 
+Cependant, comme le japonais est différent dans tous les aspects possibles, jusque dans la façon de penser,
+# III - Bases de la grammaire
 
 ## 1 - Utiliser "だ" pour exprimer l'état-d'être
 
-Un des aspects les plus compliqués en Japonais est l'absence du verbe "être" comme on en a l'habitude. Cependant, on peut déclarer ce qu'est quelque chose en attachant le hiragana  「だ」  à un nom ou à un adjectif en -na (seulement).  
+Un des aspects les plus compliqués en japonais est l'absence du verbe "être" comme on en a l'habitude. Cependant, on peut déclarer ce qu'est quelque chose en attachant le hiragana  「だ」  à un nom ou à un adjectif en -na (seulement).  
 
 <mark class=purple>Exemple</mark>
 {人|ひと}だ \\ est 人
@@ -87,7 +111,7 @@ Dans la 3$^{e}$ phrase, "ジョンは" est implicite car le thème a été fixé
 L'examen de la 1$^{ere}$ phrase fait également partie du contexte.
 
 <mark class=cyan>Note</mark>
-Même si la dernière phrase veut littéralement dire "demain", comme le Japonais est un <u>language contextuel</u>, il est grammaticalement correct de la traduire comme "Quant à John, l'examen est demain."
+Même si la dernière phrase veut littéralement dire "demain", comme le japonais est un <u>language contextuel</u>, il est grammaticalement correct de la traduire comme "Quant à John, l'examen est demain."
 
 ---
 ### b - Le 「も」 , particule de thème inclusive
@@ -280,7 +304,7 @@ On peut faire des clauses descriptives nominales de la même manière.
 #### <mark class=red><big><big>⚠</big></big></mark> Exception chiante
 
 Il y a un adjectif en -i qui veut dire "bon" qui se comporte légèrement différemment que tous les autres adjectifs en -i.
-C'est un exemple typique pour montrer que l'apprentissage du Japonais est plus difficile pour les débutants, car les mots les plus communs et utiles sont aussi ceux qui ont le plus d'exceptions. 
+C'est un exemple typique pour montrer que l'apprentissage du japonais est plus difficile pour les débutants, car les mots les plus communs et utiles sont aussi ceux qui ont le plus d'exceptions. 
 
 
 <mark class=cyan>Note</mark> Le mot pour "bon" était initialement 「よい（良い）」 . Cependant avec le temps, il est devenu 「いい」 .
@@ -329,7 +353,7 @@ Nous allons voir les 3 principales catégories de verbes
 <mark class=cyan>Note</mark>
 >Une phrase grammaticalement complète nécessite <u>uniquement</u> un verbe.(Etat-d'être en  「だ」 inclus)
 
-C'est pourquoi les phrases les plus communes en Japonais ne peuvent pas être traduites mot à mot.
+C'est pourquoi les phrases les plus communes en japonais ne peuvent pas être traduites mot à mot.
 
 <mark class=purple>Exemple</mark>
 食べる。
@@ -431,7 +455,7 @@ Exemples de conjugaison de la forme négative
 ### d - Forme passé
 
 Les sous-parties passé positif et passé négatif seront ici.
-Ces règles de conjugaison sont les plus dures de toute la langue Japonaise,
+Ces règles de conjugaison sont les plus dures de toute la langue japonaise,
 ce qui signifie que toutes les autres seront plus simples.
 Il est recommandé de revenir sur cette partie pour maîtriser toutes les nuances.
 
@@ -527,7 +551,7 @@ De plus, même si cette particule se prononce /wo/, en pratique sa prononciation
 <mark class=cyan>Note</mark>
 Contrairement à l'object direct en français, des endroits peuvent être l'objet direct de verbes de mouvement,
 comme  「{歩|ある}く」 et 「{走|はし}る」 (respectivement marcher et courir).
-Comme le verbe de mouvement est effectué <i>au lieu</i>, le concept d'objet direct est le même en Japonais.
+Comme le verbe de mouvement est effectué <i>au lieu</i>, le concept d'objet direct est le même en japonais.
 Cependant, cela donne à la traduction une signification légèrement différente dû au concept d'objet direct étant différent.
 
 高速 $\to$ à grande vitesse
@@ -576,7 +600,7 @@ Par exemple, la cible de n'importe quel verbe de mouvement est indiqué par la p
 <small>Vais faire les devoirs de aujourd'hui à demain.</small>
 
 ---
-L'idée de cible est très générale en Japonais et n'est pas restreinte aux verbes de mouvements. 
+L'idée de cible est très générale en japonais et n'est pas restreinte aux verbes de mouvements. 
 Par exemple la localisation d'un objet est la cible d'un verbe d'existence (ある et いる).
 Le temps est aussi une cible commune. Voici des exemples de cibles sans verbes de mouvements.
 
@@ -730,9 +754,9 @@ La particule d'objet direct est différente que les particules en rapport au lie
 <small><mark class=cyan>Note</mark> : L'exemple suivant va utiliser la 1e personne du singulier, mais n'importe quelle personne fonctionne en traduction dû au manque de contexte.</small>
 <mark class=purple>Exemple</mark>
 日本語<mark class=green>を</mark>{習|なら}う。
-<small>J'apprends le Japonais.</small>
+<small>J'apprends le japonais.</small>
 日本語<mark class=green>は</mark>、習う。
-<small>A propos du Japonais, je l'apprends.</small>
+<small>A propos du japonais, je l'apprends.</small>
 
 ---
 
@@ -742,13 +766,13 @@ La particule d'objet direct est différente que les particules en rapport au lie
 ---
 ## 6 - Verbes transitifs et intransitifs
 
-Il y a parfois deux types du même verbe en Japonais, appelés <i>transitifs</i> et <i>intransitifs</i>.
+Il y a parfois deux types du même verbe en japonais, appelés <i>transitifs</i> et <i>intransitifs</i>.
 La différence principale entre les deux est que l'un est une action effectuée par un agent direct alors que l'autre se passe sans l'intervention d'un agent direct, respectivement.
 En Français, cela peut parfois être exprimé avec le même verbe
 
 <mark class=purple>Exemple</mark>
 "J'ai fait tomber la balle."  vs.  "La balle est tombée."
-devient en Japonais : 「ボールを{落|お}とした」  vs.  「ボールが{落|お}ちた」 
+devient en japonais : 「ボールを{落|お}とした」  vs.  「ボールが{落|お}ちた」 
 
 ---
 Parfois, cela est exprimé avec deux verbes distincts
@@ -760,7 +784,7 @@ Cela vient uniquement des différences dans les langues
 
 ---
 <mark class=mint>Remarque</mark>
-Si on pense en Japonais, les verbes transitifs et intransitifs ont la même signification, sauf que l'un à une main directe dans l'action (objet direct), tandis que l'autre n'en a pas.
+Si on pense en japonais, les verbes transitifs et intransitifs ont la même signification, sauf que l'un à une main directe dans l'action (objet direct), tandis que l'autre n'en a pas.
 
 Même si connaître la terminologie n'est pas important, il est important de savoir lequel est lequel pour savoir quelle particule utiliser pour quel verbe.
 
@@ -831,7 +855,7 @@ La seule fois où on peut utiliser 「を」 pour des verbes intransitifs est qu
 
 Avez-vous remarqué comment beaucoup de formes de verbes et l'état-d'être se conjuguent de manière similaire aux adjectifs en -i ? Eh bien car dans un sens, ce <u>sont</u> des adjectifs. 
 Par exemple, dans la phrase "<i>La personne qui n'a pas mangé est allée à la banque</i>." 
-Le "*n'a pas mangé*" décrit la personne et en Japonais, on peut directement modifier le nom "*personne*" avec la proposition "*n'a pas mangé*" tout comme un adjectif normal.
+Le "*n'a pas mangé*" décrit la personne et en japonais, on peut directement modifier le nom "*personne*" avec la proposition "*n'a pas mangé*" tout comme un adjectif normal.
 Cette simple prise de conscience va nous permettre de modifier un nom avec n'importe quelle locution verbale !
 
 ---
@@ -849,7 +873,7 @@ Cependant, on peut avoir une chaîne de noms placés ensemble quand ils ne sont 
 
 Par exemple, dans la phrase "Centre d'Education International.", on peut voir que c'est juste une chaîne de noms sans implication grammaticale entre eux. Ce n'est pas un "Centre d'Education <u>qui est</u> International." ou bien un "Centre <u>pour</u> l'Education Internationale." etc... mais c'est juste "Centre d'Education International."
 
-En Japonais, on peut l'exprimer simplement en 「{国|こく}{際|さい}{教|きょう}{育|いく}サンタ」 (ou 「センター」 ).
+En japonais, on peut l'exprimer simplement en 「{国|こく}{際|さい}{教|きょう}{育|いく}サンタ」 (ou 「センター」 ).
 Vous allez voir cet enchaînement de noms dans beaucoup de combinaisons. Parfois une certaine combinaison est tellement régulièrement utilisée qu'elle est presque devenue un nouveau mot et est listé dans une définition séparée de certains dictionnaires.
 
 Voici certains exemples :  「登場人物」 、 「立入禁止」 、ou  「通勤手当」 .
@@ -888,17 +912,17 @@ Les clauses verbales tout comme des adjectifs pour modifier des noms. Les exempl
 <small>La personne qui n'a pas mangé le dîner est allée à la banque qu'elle a vu au film.</small>
 
 ---
-### d - Ordre des phrases en Japonais
+### d - Ordre des phrases en japonais
 
-Maintenant que l'on a appris le concept de clauses relatives et comment elles sont utilisées comme blocs de constructions dans les phrases japonaises, on peut désormais voir comment on ordonne les phrases Japonaises.
+Maintenant que l'on a appris le concept de clauses relatives et comment elles sont utilisées comme blocs de constructions dans les phrases japonaises, on peut désormais voir comment on ordonne les phrases japonaises.
 
 Il y a un mythe qui circule sur la façon d'ordonner les phrases japonaises qui continue de <u>tourmenter de nombreux débutants malchanceux</u>, le voici : 
 
 La structure de phrase la plus basique en français peut être décrite comme contentant les éléments suivants dans cet ordre : <mark class=blue>[Sujet][Verbe][Complément]</mark>
 Une phrase n'est pas grammaticalement correcte si n'importe quel élémént est manquant ou dans le mauvais ordre.
 
-Certains étudiants de la langue Japonaise vont vous dire que la Japonais, à l'inverse, est à l'envers !
-Même certains enseignants vont vous dire que l'ordre des phrases japonais est : <mark class=grey>[Sujet][Complément][Verbe]</mark>. <i>Ceci est un exemple classique de comment certains essaient de mettre le Japonais dans un moule français, ou anglais</i>. Bien sûr, on sait tous (hein ?) que le vrai ordre des phrases fondamental est : <mark class=mint>[Verbe]</mark>
+Certains étudiants de la langue japonaise vont vous dire que la japonais, à l'inverse, est à l'envers !
+Même certains enseignants vont vous dire que l'ordre des phrases japonais est : <mark class=grey>[Sujet][Complément][Verbe]</mark>. <i>Ceci est un exemple classique de comment certains essaient de mettre le japonais dans un moule français, ou anglais</i>. Bien sûr, on sait tous (hein ?) que le vrai ordre des phrases fondamental est : <mark class=mint>[Verbe]</mark>
 Tout ce qui vient avant le verbe n'a pas besoin de suivre d'ordre particulier, et <u>rien d'autre que le verbe n'est nécessaire pour faire une phrase correcte et complète.</u> De plus, le verbe doit toujours venir en dernier. 
 
 C'est tout l'intérêt des particules de pouvoir identifier quelle est la fonction grammaticale d'un mot, peu importe où il se trouve dans la phrase. En effet, rien ne peut nous arrêter de faire une phrase dans l'ordre <mark class=mint>[Complément][Sujet][Verbe]</mark> ou bien juste <mark class=mint>[Complément][Verbe]</mark>. Les phrases suivantes sont toutes correctes et complètes car le verbe se trouve à la fin de la phrase.
@@ -1156,7 +1180,7 @@ Un tableau de conjugaison illustrera ce propos.
 | Passé         | 学生<mark class=green>なんだった</mark>    | 飲む<mark class=green>んだった</mark>    |
 | Passé-négatif | 学生<mark class=green>なんじゃなかった</mark> | 飲む<mark class=green>んじゃなかった</mark> |
 
-Les Japonais n'emploient <u>quasiment jamais</u> le passé et passé négatif pour les noms et adj en -na dans le 2$^{e}$ tableau (surtout avec 「の」 ) mais elles sont présentées pour compléter le tableau.
+Les japonais n'emploient <u>quasiment jamais</u> le passé et passé négatif pour les noms et adj en -na dans le 2$^{e}$ tableau (surtout avec 「の」 ) mais elles sont présentées pour compléter le tableau.
 
 ---
 La différence cruciale entre utiliser le 「の」 explicatif et ne rien dire du tout est que l'on dit au lecteur/ à la personne qui nous écoute, "Regarde, voici la raison" contre simplement transmettre une nouvelle information.
@@ -1177,7 +1201,7 @@ Lorsque nécessaire, une seconde traduction sera présente pour donner le sens f
 ボブ：{授|じゅ}{業|ぎょう}に行く<mark class=green>んだ</mark>。
 <small>Bob : <u>Eh bien/bah</u> je vais en classe (en cours).</small>
 
-Ici le "eh bien" est plutôt du registre familier en français, alors qu'en Japonais le sens est + du language courant que l'on peut utiliser avec ses collègues par exemple (ou ses amis aussi)
+Ici le "eh bien" est plutôt du registre familier en français, alors qu'en japonais le sens est + du language courant que l'on peut utiliser avec ses collègues par exemple (ou ses amis aussi)
 
 アリス：今、授業がある<mark class=green>んじゃない</mark>？
 <small>Alice : <u>N'y a-t-il pas</u> cours en ce moment ?</small>
@@ -1211,7 +1235,7 @@ C'est pas grave si vous n'avez pas compris, il y aura de multiples exemples qui 
 
 ### a - Propriétés des adverbes
 
-En Japonais, modifier des adjectifs en adverbes est très simple et droit au but. 
+En japonais, modifier des adjectifs en adverbes est très simple et droit au but. 
 De plus, comme le système de particules permet aux phrases d'avoir un ordre flexible, les adverbes peuvent être placés n'importe où dans la clause où il s'applique tant qu'il arrive <u>avant</u> le verbe auquel il réfère. 
 Comme d'habitude, il y a 2 règles séparées : l'un pour les adj en -i, l'autre pour les adjectifs en -na
 
@@ -1296,7 +1320,7 @@ Quand 「よ」 est attaché à la fin d'une phrase, cela signifie que le locute
 
 アリス：今日はいい天気だね。
 <small>Alice : Beau temps aujourd'hui non ?</small>
-ボブ：うん。でも、明日雨が降る<mark class=green>よ</mark>。
+ボブ：うん。でも、明日{雨|あめ}が{降|ふ}る<mark class=green>よ</mark>。
 <small>Bob : Ouais. Mais demain il va pleuvoir, <u>tu sais</u>.</small>
 
 ---
@@ -1313,9 +1337,147 @@ Lorsqu'on combine les deux, l'ordre doit toujours être　「よね」 et pas l'
 <small>Bob : Oui <u>n'est ce pas</u> ?</small>
 
 ---
-# II - Grammaire Essentielle
+# IV - Grammaire Essentielle
 
 Nous avons appris les <u>fondations de base</u> de la langue japonaise. 
 Maintenant que nous avons une idée dans les grandes lignes de comment le japonais marche, nous pouvons améliorer nos connaissances en apprenant des <u>structures de grammaire spécifiques</u> à certaines situations. 
 Cette partie va aborder ce qui est considéré comme grammaire essentielle pour le japonais pratique de base. 
-Vous allez commencer à voir moins de traductions littérales afin de souligner la nouvelle grammaire, dont vous devrez déjà avoir une bonne compréhension
+Vous allez commencer à voir <u>moins de traductions littérales</u> afin de souligner la nouvelle grammaire, dont vous devrez déjà avoir une bonne compréhension. 
+Par exemple, dans des phrases où le sujet n'est pas spécifié, le sujet pourra être spécifié et traduit en <mark class>il/elle</mark> même si cela pourrait très bien être <mark class>nous</mark> ou <mark class>ils</mark> selon le contexte. 
+
+Cette section va débuter en transformant ce qu'on a appris jusqu'ici en <u>une forme plus polie et modeste</u>. Dans toutes les langues, il y a des façons de dire les choses différemment afin d'exprimer un sentiment de respect ou de politesse. En français, il existe <mark class>le vouvoiement</mark> et <mark class>le tutoiement</mark>. On peut parler d'une certaine façon avec son professeur et d'une autre avec ses amis. 
+Cependant, la langue japonaise est différente en ce sens car non seulement le type de vocabulaire change, mais la structure grammaticale pour **toutes les phrases** change également. 
+Il y a une ligne distincte et claire qui différencie le language poli et courant. D'un côté, les règles indiquent clairement comment structurer les phrases selon le contexte social. De l'autre côté, chaque phrase que l'on prononce se doit d'être conjuguée au niveau de politesse approprié. 
+Dans cette partie, on verra <u>la version polie</u> du japonais, qui est exigée lorsqu'on parle à des personnes de niveau social plus élevé ou bien avec les inconnus.
+
+Cette section va ensuite aborder les types majeurs les plus importants de la grammaire japonaise. Pour cette raison, on va traiter les conjugaisons les plus communes, comme la forme en -te, potentielle, conditionnelle et volontaire. 
+<u>Les sections suivantes ne sont pas dans un ordre particulier</u> et n'ont pas besoin de l'être. La grammaire qui est présentée ici est essentielle ce qui signifie qu'il faut l'apprendre dans tous les cas et bien le faire.
+
+---
+
+## 1 - Forme polie et radical du verbe
+
+### a - Ne pas être impoli au Japon
+
+Le japonais que l'on a appris jusqu'ici est très bien si on a 5 ans. Malheureusement, <u>on attend des adultes qu'ils utilisent une version plus polie du japonais</u> (appelée {丁|てい}{寧|ねい}{語|ご}) lorsqu'on s'adresse à certaines personnes.
+Les gens vont probablement utiliser le 丁寧語 lorsqu'ils parlent à :
+1. Des personnes d'un statut social plus élevé 
+2. Les personnes que l'on ne connaît pas
+Décider de quel language utiliser est plus une question de "ressenti".
+Cependant, c'est une bonne idée de s'en tenir à une forme pour chaque personne.
+
+---
+<mark class=cyan>Note</mark>
+Plus tard (probablement beaucoup plus tard), ce guide abordera une version de la langue encore plus polie appelée forme honorifique ({尊|そん}{敬|けい}{語|ご}) et forme humble ({謙|けん}{譲|じょう}{語|ご}). Celle-ci est plus utile que vous pensez car <u>les employés, réceptionnistes etc. vont vous parler dans ces formes</u>. Mais pour le moment, concentrons-nous sur le 丁寧語 uniquement qui est la base pour le 尊敬語 et le　謙譲語. 
+
+---
+
+Heureusement, <u>c'est pas très compliqué de passer du language courant au language poli</u>. Il peut y avoir certaines différences de vocabulaire (oui et non deviennent「はい」et「いいえ」respectivement en language soutenu par exemple), et les types de fin de phrases familiers ne sont pas utilisés dans le language soutenu. (On verra les fin de phrases dans une prochaine section) Essentiellement, la seule différence majeure entre le language soutenu et et language courant vient à la toute fin de la phrase. Vous ne pouvez même pas dire si une personne parle en language soutenu ou courant/familier tant que la phrase n'est pas finie.
+
+---
+### b - Le radical des verbes
+
+Afin de conjuguer tous les verbes en -u et verbes en -ru dans leurs formes polies respectives, on va d'abord aborder le radical du verbe. C'est souvent appelé la *racine masu* dans les manuels japonais mais on va tout simplement l'appeler la *racine* ici car elle est utilisée dans bien plus de conjugaisons que seulement la forme -masu. La racine est vraiment super, car elle est facile à utiliser et est utile dans plein de différents types de grammaire.
+
+<mark class=pink>Règle</mark>
+ >- Verbes en -ru
+ >	Retirer le「る」
+ >	<mark class=purple>Exemple</mark> 食べ<mark class=green>る</mark> $\to$ 食べ
+ >- Verbes en -u 
+ >	Le dernier son en voyelle change d'une voyelle en / u / en voyelle en / i / 
+ >- Exceptions 
+ >	1. 「する」devient「し」
+ >	2. 「くる」devient「き」
+ 
+La racine employée toute seule peut être une façon très spécialisée et limitée de créer des noms depuis les verbes. 
+Alors que la particule「の」nous permet de parler de verbes comme si ils étaient des noms, la racine transforme vraiment le verbe en nom. 
+Par exemple la racine de「怒る」(いかる) est utilisée plus souvent que le verbe lui même. Le film, "La fureur de vaincre" (Fists of Fury en anglais, traduit littéralement en "Les poings de fureur") est traduit en 「怒りの{鉄|てっ}{拳|けん}」et non「怒る鉄拳」. 
+En effet「怒る」va probablement être lu 「おこる」, un verbe différent avec la même signification et kanji !
+Il y a une multitude de noms spécifiques (comme「{休|おやす}み」qui signifie repos/vacances) qui sont juste des radicaux de verbes utilisés comme des noms communs. 
+Cependant, en général on ne peut pas prendre n'importe quel verbe et le transformer en nom commun. Par exemple la phrase suivante est incorrecte.
+
+- <s>飲みをする</s> 
+(La phrase fait sens mais personne ne parle comme ça)
+
+Cependant, une forme grammaticale utile qui marche en général pour les radicaux de tous les verbes est d'utiliser le radical d'un verb en tant que cible d'un verbe de mouvement (presque toujours「行く」et「来る」dans de cas). Cette forme grammaticale signifie 
+« Aller faire ou venir faire \[un verbe] » 
+
+<mark class=purple>Exemple</mark>
+明日、映画を<mark class=green>見に</mark>行く。- Demain, je vais aller voir un film.
+
+「見に」est le radical de 「見る」(qui est 見) combiné avec la particule cible「に」.
+
+
+La particule de cible「へ」donne l'impression que vous allez littéralement aller ou venir de faire quelque chose alors que la particule「に」implique que l'on va ou vient pour l'intention de faire quelque chose
+
+<mark class=purple>Exemple</mark>
+1. {昨日|きのう}、友達が<mark class=green>遊びへ</mark>来た。- Hier, un ami est venu pour une activité joueuse.
+2. 昨日、友達が<mark class=green>遊びに</mark>来た。- Hier, un ami est venu pour jouer.
+
+---
+L'expression「{楽|たの}しみにする」qui signifie "avoir hâte" est formée d'une grammaire similaire à ceci, mais c'est un cas particulier qui doit être retenu comme une expression à part.
+
+D'autres verbes sont aussi parfois rattachés au radical pour <u>créer des nouveaux verbes</u>. Par exemple, quand「出す」est attaché au radical de「走る」, qui est「走り」, on obtient「{走|はし}り{出|だ}す」qui signifie "se mettre à courir".
+On peut également citer「{切|き}り{替|か}えす」, qui signifie "passer à autre chose", et 「{付|つ}け{加|くわ}える」qui signifie "ajouter quelque chose en l'attachant".
+Vous voyez comment <u>les significations distinctes des deux verbes sont combinées afin de créer un nouveau verbe combiné</u>. 
+Par exemple,「{言|い}い出す」signifie "commencer à parler", en combinant "parler" et "sortir (dans le sens sortir un objet de quelque part)". Il n'y a pas de règle générale, il faut juste mémoriser ces combinaisons de verbes comme verbes à part.
+
+Les choses qui sont écrites dans un contexte formel comme les articles de journaux utilisent aussi les radicaux des verbes comme un verbe conjonctif. On reviendra à ça plus tard dans la partie sur l'expression formelle.
+
+---
+### c - Utiliser「 ~ ます」pour rendre les verbes polis
+
+Bien sûr, la raison pour laquelle on a introduit le radical du verbe est pour apprendre à conjuguer les verbes dans leur forme polie... la forme en -masu !
+La forme en -masu doit toujours arriver à la fin d'une phrase complète et jamais dans une clause relative qui modifie quelque chose.
+Lorsqu'on verra les phrases complexes, on verra que chaque sous-phrase d'une phrase complexe peut en plus finir en la forme -masu.
+
+Pour conjuguer les verbes dans la forme -masu, <u>on attache différentes conjugaisons de「ます」au radical selon le temps</u>, voici un tableau.
+
+<mark class=pink>Règle</mark>
+ Règles de conjugaison avec le radical「遊び」
+ 
+|               | conjugaisons de ます | radoical+ます                       |
+| ------------- | ------------------ | --------------------------------- |
+| Simple        | ます                 | 遊び<mark class=green>ます</mark>     |
+| Négatif       | ません                | 遊び<mark class=green>ません</mark>    |
+| Passé         | ました                | 遊び<mark class=green>ました</mark>    |
+| Passé-négatif | ませんでした             | 遊び<mark class=green>ませんでした</mark> |
+
+<mark class=purple>Exemple</mark>
+明日、大学に<mark class=green>行きます</mark>。
+Demain, je vais à l'université.
+先週、ボブに<mark class=green>会いました</mark>よ。
+Tu sais, j'ai rencontré Bob la semaine dernière
+{夕|ゆう}{食|しょく}を<mark class=green>食べませんでした</mark>ね。
+Tu n'as pas mangé le dîner, n'est-ce pas ?
+面白くない映画は<mark class=green>見ません</mark>。
+À propos des films pas intéressants, ne les regarde pas.
+
+---
+### d - Utiliser「です」pour tout le reste
+
+Pour toutes les phrases qui ne se finissent pas en un verbe en -ru ou en -u, la seule chose qui doit être faite est d'<u>ajouter「です」ou「でした」</u>. Vous pouvez aussi faire ça pour les noms substitués (à la fois「の」et「ん」) en les traitant comme des noms classiques.
+Une autre chose à garder en tête est de se souvenir que si il y a un「だ」déclaratif, il doit être retiré. Apparemment quand on est poli, on ne peut pas se permettre d'affirmer les choses aussi catégoriquement qu'en utilisant la particule「だ」... 
+Tout comme la forme -masu, ceci doit aussi aller <u>à la fin d'une phrase complète</u>
+
+Voici des tableaux de conjugaison
+
+<mark class=pink>Règle</mark>
+Adjectif en -i (だ ne peut pas être utilisé)
+
+|               | Courant  | Poli     |
+| ------------- | -------- | -------- |
+| Simple        | かわいい     | かわいい     |
+| Négatif       | かわいくない   | かわいくない   |
+| Passé         | かわいかった   | かわいかった   |
+| Passé-négatif | かわいくなかった | かわいくなかった |
+
+Adjectif en -na/nom commun (il faudra peut-être retirer だ)
+
+|               | Courant  | Poli                                |
+| ------------- | -------- | ----------------------------------- |
+| Simple        | 静か（だ）    | 静か<mark class=green>です</mark>       |
+| Négatif       | 静かじゃない   | 静かじゃない<mark class=green>です</mark>   |
+| Passé         | 静かだった    | 静かだった<mark class=orange>でした</mark>  |
+| Passé-négatif | 静かじゃなかった | 静かじゃなかった<mark class=green>です</mark> |
+

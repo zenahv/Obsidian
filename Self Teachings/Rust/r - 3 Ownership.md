@@ -37,10 +37,10 @@ if the program is still executed, `x` could hold anything in memory, which cause
 ## 2. Fundamentals of Ownership
 
 Variables live in the <u>Stack</u>
-![[Rust 1.png]]
+![[Rust 1.png|443]]
 
 While boxes live in the <u>Heap</u>
-![[Rust 2.png]]
+![[Rust 2.png|861]]
 
 Stuff in the <u>Heap</u> needs a pointer for it to be found/used, <b><u>only one pointer can exist at any time</u></b>
 ![[Rust 3.png]]

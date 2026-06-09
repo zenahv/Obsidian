@@ -6,6 +6,8 @@ ALT + E = Embed
 ALT + F = Faire le graphe d'une fonction 
 ALT + G = Chercher et remplacer dans un fichier
 ALT + H = Aide Obsidian 
+ALT + I = Ouvre menu admonition
+ALT + J = Bannière
 ALT + L = Toggle light mode
 ALT + M = Insérer lien markdown 
 ALT + O = Ouvre le quick switch
@@ -31,3 +33,26 @@ CTRL + ALT + K = Convertir romaji en カタカナ
 CTRL + T = écrit le temps (heure et minute) actuel (ex : 11:13)
 CTRL + $\leftarrow$ = Navigate back
 CTRL + $\to$ = Navigate forward
+
+Keybinds vim utiles
+
+Remplacer un mot : 
+`ciw`
+Créer une nouvelle ligne entre celle où le curseur se trouve et la suivant : 
+`o`
+Créer une nouvelle ligne au dessus du curseur:
+`O`
+Bouge une ligne au dessus :
+`ddkP`
+Bouge une ligne en dessous :
+`ddp`
+sélectionne une ligne entière :
+`0v$y`
+sélectionne le mot entier :
+`yiw`
+Créer le marqueur x au sur le curseur :
+`mx`
+Aller au marqueur x :
+`'x`
+Centrer la ligne du curseur :
+`zz`

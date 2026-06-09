@@ -319,5 +319,21 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-banners:banners:addBanner": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
   ]
 }

@@ -15,5 +15,6 @@
   "userIgnoreFilters": null,
   "rightToLeft": false,
   "spellcheck": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "vimMode": true
 }

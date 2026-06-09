@@ -1,11 +1,12 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentColor": "#d45cf5",
   "interfaceFontFamily": "DejaVu Sans,NewClear-mincho",
-  "textFontFamily": "NewClear-mincho",
-  "baseFontSize": 21,
+  "textFontFamily": "Gen Interface JP Display",
+  "baseFontSize": 25,
   "cssTheme": "Prism",
   "monospaceFontFamily": "Source Code Pro",
   "nativeMenus": false,
-  "showRibbon": false
+  "showRibbon": false,
+  "enabledCssSnippets": []
 }

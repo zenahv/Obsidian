@@ -37,3 +37,4 @@ Paste le registre (par défaut ") `p`
 `r [caractère]` remplace le caractère survolé par celui indiqué
 
 `Ctrl + g` affiche la position dans un fichier
+
