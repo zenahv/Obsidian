@@ -654,7 +654,7 @@ Par exemple, si on remplace 「に」 par 「へ」 dans les 3 premiers exemples
 ---
 <mark class=cyan>Note</mark> : On ne peut pas utiliser 「へ」 avec des <u>verbes</u> qui n'ont pas de direction physique
 Par exemple, l'exemple suivant est incorrect :
-- 医者<s>へ</s>なる。
+- 医者<mark class=red>へ</mark>なる。
 Cependant, cela ne veut pas dire que 「へ」 ne peut pas exprimer le fait de se diriger vers un concept abstrait.
 En effet, avec la signification directionnelle floue de cette particule, elle peut être utilisée pour exprimer le 
 fait de se diriger vers des objectifs futurs ou bien des attentes.
@@ -761,7 +761,7 @@ La particule d'objet direct est différente que les particules en rapport au lie
 ---
 
 <mark class=red><big><big>⚠</big></big></mark> Attention à ne pas faire l'erreur suivante, la phrase suivante est incorrecte :
-日本語<s>をは</s>、習う。
+日本語<mark class=red>をは</mark>、習う。
 
 ---
 ## 6 - Verbes transitifs et intransitifs
@@ -835,11 +835,11 @@ Il se peut qu'il soit complexe de saisir la nuance initialement, pour distinguer
 <mark class=cyan>Note</mark> La chose importante à retenir est que les verbes intransitifs <i>ne peuvent pas</i> avoir d'objet direct car il n'y a aucun agent direct qui agit.
 Les phrases suivantes sont grammaticalement incorrectes
 
-電気<mark class=red><s>を</s></mark>ついた。
+電気<mark class=red>を</mark>ついた。
 ( 「を」 doit être remplacé par 「が」 ou 「は」 )
-電気<mark class=red><s>を</s></mark>消える。
+電気<mark class=red>を</mark>消える。
 ( 「を」 doit être remplacé par 「が」 ou 「は」 )
-どうして窓<mark class=red><s>を</s></mark>開いた。
+どうして窓<mark class=red>を</mark>開いた。
 ( 「を」 doit être remplacé par 「が」 ou 「は」 )
 
 La seule fois où on peut utiliser 「を」 pour des verbes intransitifs est quand le lieu est l'objet direct d'un verbe de mouvement comme cela a été brièvement décrit dans la section précédente 
@@ -1396,7 +1396,7 @@ En effet「怒る」va probablement être lu 「おこる」, un verbe différen
 Il y a une multitude de noms spécifiques (comme「{休|おやす}み」qui signifie repos/vacances) qui sont juste des radicaux de verbes utilisés comme des noms communs. 
 Cependant, en général on ne peut pas prendre n'importe quel verbe et le transformer en nom commun. Par exemple la phrase suivante est incorrecte.
 
-- <s>飲みをする</s> 
+- <mark class=red>飲みをする</mark> 
 (La phrase fait sens mais personne ne parle comme ça)
 
 Cependant, une forme grammaticale utile qui marche en général pour les radicaux de tous les verbes est d'utiliser le radical d'un verb en tant que cible d'un verbe de mouvement (presque toujours「行く」et「来る」dans de cas). Cette forme grammaticale signifie 
@@ -1465,12 +1465,12 @@ Voici des tableaux de conjugaison
 <mark class=pink>Règle</mark>
 Adjectif en -i (だ ne peut pas être utilisé)
 
-|               | Courant  | Poli     |
-| ------------- | -------- | -------- |
-| Simple        | かわいい     | かわいい     |
-| Négatif       | かわいくない   | かわいくない   |
-| Passé         | かわいかった   | かわいかった   |
-| Passé-négatif | かわいくなかった | かわいくなかった |
+|               | Courant  | Poli                                |
+| ------------- | -------- | ----------------------------------- |
+| Simple        | かわいい     | かわいい<mark class=green>です</mark>     |
+| Négatif       | かわいくない   | かわいくない<mark class=green>です</mark>   |
+| Passé         | かわいかった   | かわいかった<mark class=green>です</mark>   |
+| Passé-négatif | かわいくなかった | かわいくなかった<mark class=green>です</mark> |
 
 Adjectif en -na/nom commun (il faudra peut-être retirer だ)
 
@@ -1481,3 +1481,142 @@ Adjectif en -na/nom commun (il faudra peut-être retirer だ)
 | Passé         | 静かだった    | 静かだった<mark class=orange>でした</mark>  |
 | Passé-négatif | 静かじゃなかった | 静かじゃなかった<mark class=green>です</mark> |
 
+<mark class=orange></mark> Remarquez que dans le cas des noms/ adjectifs en -na <u>seulement</u>, le passé devient「でした」. Une erreur très fréquente est de faire pareil pour les adjectifs en -i.
+Rappelez vous que 「かわいい<mark class=red>でした</mark>」est incorrect
+
+<mark class=purple>Exemple</mark>
+{子|こ}犬はとても<mark class=green>好きです</mark>。
+<small>À propos des chiots, aime beaucoup.
+<br>
+(La traduction la plus naturelle serait que quelque'un aime beaucoup les chiots mais il n'y a pas assez de contexte pour exclure le sens que les chiots aiment beaucoup quelque chose.)</small>
+昨日、時間が<mark class=green>なかったんです</mark>。
+<small>Le fait est qu'il n'y avait pas le temps hier<br><mark class=cyan>Note</mark> Le「ん」peut être remplacé par「の」</small>
+その部屋はあまり<mark class=green>静かじゃないです</mark>。
+<small>Cette chambre n'est pas très silencieuse.</small>
+先週に見た映画は、とても<mark class=green>面白かったです</mark>。
+<small>Le film qu'on a vu la semaine dernière était très intéressant.</small>
+
+---
+#### <mark class=red></mark> Retour à la réalité
+
+Certains disent que la conjugaison négative (qui n'est pas au passé) qui est donnée ici n'est pas la conjugaison "officiellement" correcte. À la place, ce qui est considéré comme une conjugaison plus "correcte" est de remplacer le「ないです」par「ありません」.
+La logique est que la version polie de la forme négative de「ある」n'est pas「ないです」mais「ありまえん」. Par conséquent,「かわいくない」devient en réalité「かわいくありません」et「しずかじゃない」devient「静かじゃありません」.
+
+Dans le monde réel du japonais d'aujourd'hui, ce qui est considéré comme la conjugaison "officielle" est perçu comme raide et formel. 
+Dans les conversations de tous les jours, la conjugaison présentée ici va être utilisée presque tout le temps.
+Même si vous devriez utiliser les conjugaisons plus formelles pour des travaux écrits en utilisant la forme polie, vous l'entendrez rarement dans la vie de tous les jours.
+En conclusion, une bonne idée pour palier à cela serait d'étudier et de se familiariser avec les <u>deux types</u> de conjugaison.
+
+<mark class=pink>Règle</mark>
+ 
+|               | Courant  | Poli                                  |
+| ------------- | -------- | ------------------------------------- |
+| Négatif       | かわいくない   | かわいく<mark class=green>ありません</mark>    |
+| Passé-Négatif | かわいくなかった | かわいく<mark class=green>ありませんでした</mark> |
+| Négatif       | 静かじゃない   | 静かじゃ<mark class=green>ありません</mark>    |
+| Passé-Négatif | 静かじゃなかった | 静かじゃ<mark class=green>ありませんでした</mark> |
+
+<mark class=purple>Exemple</mark>
+その部屋はあまり静かじゃない<mark class=green>です</mark>よ。
+<small>Tu sais, cette chambre n'est pas très silencieuse.</small>
+その部屋はあまり静か<mark class=green>じゃありません</mark>よ。
+<small>Tu sais, cette chambre n'est pas très silencieuse.</small>
+
+---
+### e - 「です」n'est PAS 「だ」
+
+Beaucoup de vous qui avez déjà pris des classes de Japonais ont probablement appris que<u>「です」</u>est la version polie de<u>「だ」</u>. Cependant, il est important de souligner les différences majeures ici et pourquoi ce <u>sont deux choses complètement différentes</u>.
+Il est impossible d'expliquer complètement les raisons de leurs différences sans parler de grammaire que l'on a pas encore vu donc cette partie est dédiée à ceux qui ont déjà commencé à apprendre le japonais et qui ont été mal informés que「だ」est la version plus familière de「です」.
+<u>Pour ceux d'entre vous qui apprennent le Japonais ici, vous pouvez facilement sauter cette partie.</u>
+
+---
+Normalement vous avez appris l'expression「そう」à ce stade. Maintenant, il y a 4 façons de faire une phrase complète en utilisant l'état-d'être avec「そう」afin de produire une phrase qui signifie "C'est vrai"/"En effet"/"C'est ainsi"
+
+###### Les différentes façons de dire "C'est vrai"
+
+そう。
+そうだ。
+そうです。
+そうでございます。
+
+Le premier「そう」est l'état-d'être sous entendu et 「そうだ」est le déclaratif. Le doux et modeste「そう」est souvent utilisé par les femmes tandis que le「そうだ」plus confiant est souvent utilisé par les hommes.
+
+「そうです」est la version polie de「そう」, crée en attachant「です」au nom.<u>「そうです」n'est <b>pas</b> la version polie de「そうだ」</u>où le「だ」est remplacé par「です」mais on y reviendra.
+
+On voudrait peut être faire cette phrase une question pour demander "Ah oui ?"/"Ah bon ?".
+Il y a plusieurs manières de le faire mais certaines possibilités sont données ci dessous. (Cette grammaire sera vue dans une prochaine section)
+
+###### Les différentes façons de demander "Ah bon ?"
+
+そう？
+そうか？
+そうですか？
+
+Come expliqué précédemment, le「だ」est utilisé pour déclarer ce que l'un pense être un fait. Par conséquent,<u>「そうだか？」n'est pas une façon valable de poser une question</u> car elle déclare un fait et pose une question en même temps. Mais <u>le fait que「そうですか」est une question valide montre que「です」et「だ」sont fondamentalement différents</u>.「そうです」montre du respect et de l'humilité, n'est pas assertif, et est simplement la version polie de「そう」.
+
+Autre que la différence du nuance entre「だ」et「です」, une autre différence majeure est que「だ」est utilisé dans de nombreuses structures grammaticales pour délimiter des propositions relatives. Au contraire,<u>「です」est seulement utilisé à la fin d'une phrase</u> pour désigner un état-d'être poli. 
+Par exemple, considérez les deux phrases suivantes (la grammaire sera vue plus tard)
+
+そう<mark class=green>だ</mark>と{思|おも}います。
+<small>Je pense que oui.</small>
+そう<mark class=red>です</mark>と思います。
+<small>Phrase incorrecte</small>
+
+「そう<mark class=green>だ</mark>と思います」est correct alors que「そう<mark class=red>です</mark>と思います」ne l'est pas car「です」peut seulement aller à la fin de la phrase.「です」peut seulement être dans une clause relative quant c'est une citation directe que quelqu'un a dit comme la phrase suivante :
+
+「はい、そうです」と答えた。
+
+En conclusion, remplacer「です」par「だ」, en pensant que l'un est l'équivalent poli de l'autre et vise-versa peut aboutir à des phrases grammaticalement incorrectes.
+<u>Le mieux est de les voir comme deux choses complètement séparées</u> (car elles le sont)
+
+---
+## 2 - S'adresser aux gens
+
+Non seulement il est important d'utiliser le type de language correct avec les bonnes personnes, mais il est aussi important de s'adresser à eux avec le bon nom.
+<u>Il est aussi important de s'adresser soi-même avec le bon niveau de politesse</u>.
+Le japonais est spécial dans le fait qu'il y a plein de façons différentes de dire les mots simples "je" et "tu".
+On va voir ici certaines façons de parler de soi-même et des autres.
+
+---
+### a - Parler de soi-même
+
+Il y a plein de façons de dire "je" en japonais. Certains de ces mots ne sont pas autant communs que d'autres et d'autres sont obsolètes. 
+On va voir ici les plus communs qui sont utilisés aujourd'hui. 
+Les différents usages de tous les mots pour "je" sont : le genre et la politesse. En d'autres mots, il y a des mots qui sont habituellement utilisés par des hommes et d'autres par des femmes et dépendent tous du contexte social.
+
+<mark class=cyan>Note</mark>
+Avant de se lancer là dedans.
+La prononciation officielle de「私 est「わたくし」. Ce sera la prononciation que vous allez utiliser dans un contexte formel (par exemple, un discord d'un président d'une entreprise). 
+Cette prononciation sera probablement accompagnée de formes humbles et honorifiques, que l'on verra plus tard.
+Dans toutes les autres situations, il est habituellement lu en「わたし」. Ceci est la référence la plus commune de "je" en terme de politesse et de genre; par conséquent il est habituellement un des premiers mots enseigné aux étudiants de la langue japonaise.
+
+---
+Voici une liste des mots les plus communs pour "je", accompagnés du contexte de leur utilisation
+
+1. 私【わたくし】- Utilisé par tout le monde dans les situations formelles
+2. 私【わたし】- Utilisé par tout le monde pour des situations polies classiques (utilisé principalement par les femmes dans les situations casuelles)
+3. 僕【ぼく】- Utilisé principalement par des hommes dans des situations plutôt polies jusqu'aux situations plutôt casuelles
+4. 俺【おれ】- Une version très rugueuse de "je" utilisée quasi exclusivement par des hommes dans des situations très casuelles.
+5. あたし - Une façon très féminine et casuelle du "je". Beaucoup de femmes ont décidé d'utiliser「わたし」à la place car「あたし」a une connotation très mignonne et féminine
+6. Son propre nom - Aussi un "je" très féminin avec une connotation enfantine
+7. わし - Habituellement utilisé par des hommes âgés dans leurs âge mûr.
+
+<mark class=cyan>Note</mark>
+Si vous êtes curieux d'en savoir plus, ou d'avoir une autre perspective sur cet aspect de la langue, je recommande [cette vidéo](https://www.youtube.com/watch?v=6b8ri61kpJY)
+
+---
+Voyons comment différents types de phrases utilisent leur version du "je".「わたくし」est mis de côté pour l'instant car il nous reste à voir les expression grammaticales très formelles.
+
+<mark class=purple>Exemple</mark>
+私の{名|な}{前|まえ}はキムです。
+<small>Je m'appelle Kim. <mark class=mint>Ton</mark> : genre neutre, poli</small> 
+僕の名前はキムです。
+<small>Je m'appelle Kim. <mark class=mint>Ton</mark> : plutôt masculin, poli</small> 
+僕の名前はボブだ。
+<small>Je m'appelle Bob <mark class=mint>Ton</mark> : plutôt masculin, décontracté</small>
+俺の名前はボブだ。
+<small>Je m'appelle Bob <mark class=mint>Ton</mark> : très très masculin, familier</small>
+あたしの名前はアリス。
+<small>Je m'appelle Alice. <mark class=mint>Ton</mark> : très féminin, familier</small>
+
+---
